@@ -1,0 +1,1792 @@
+[
+    {
+        "title": "Vikram",
+        "year": 2022,
+        "director": "Lokesh Kanagaraj",
+        "cast": [
+            "Kamal Haasan",
+            "Vijay Sethupathi",
+            "Fahadh Faasil"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "dark, intense, mass, high-octane",
+        "themes": "revenge, organized crime, underworld, identity",
+        "rating": 8.4,
+        "summary": "A retired special agent investigates a series of murders committed by a masked vigilante group. The story unfolds in a non-linear narrative revealing deep connections between the characters. Known for its stylish action, strong villain, and universe building."
+    },
+    {
+        "title": "Kaithi",
+        "year": 2019,
+        "director": "Lokesh Kanagaraj",
+        "cast": [
+            "Karthi",
+            "Narain"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "gripping, tense, raw, no-nonsense",
+        "themes": "father-daughter bond, survival, police vs drug mafia",
+        "rating": 8.5,
+        "summary": "A newly released prisoner tries to meet his daughter for the first time while unknowingly getting entangled in a massive drug bust operation. A single night thriller with no songs and non-stop tension throughout."
+    },
+    {
+        "title": "Enthiran",
+        "year": 2010,
+        "director": "Shankar",
+        "cast": [
+            "Rajinikanth",
+            "Aishwarya Rai"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "mood": "grand, spectacular, mass, emotional",
+        "themes": "artificial intelligence, love, ethics of robotics, identity",
+        "rating": 7.9,
+        "summary": "A scientist creates a humanoid robot with advanced intelligence and emotions. The robot falls in love with the scientist's girlfriend leading to chaos. A landmark Tamil sci-fi film known for its massive scale and visual effects."
+    },
+    {
+        "title": "Pariyerum Perumal",
+        "year": 2018,
+        "director": "Pa. Ranjith",
+        "cast": [
+            "Kathir",
+            "Anandhi"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "emotional, raw, thought-provoking, realistic",
+        "themes": "caste discrimination, love, justice, identity, dignity",
+        "rating": 8.5,
+        "summary": "A first-generation law student from a marginalized community faces caste-based discrimination as he pursues his education and falls in love. A deeply moving film that portrays the harsh social realities of Tamil Nadu with sensitivity."
+    },
+    {
+        "title": "96",
+        "year": 2018,
+        "director": "C. Prem Kumar",
+        "cast": [
+            "Vijay Sethupathi",
+            "Trisha"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "nostalgic, melancholic, slow-burn, poetic",
+        "themes": "lost love, memories, school days, longing, moving on",
+        "rating": 8.5,
+        "summary": "Two former school sweethearts reunite after decades apart during a school reunion trip. The film is a quiet and deeply emotional exploration of memories, what-ifs, and the love that never quite went away. Celebrated for its BGM and performances."
+    },
+    {
+        "title": "Master",
+        "year": 2021,
+        "director": "Lokesh Kanagaraj",
+        "cast": [
+            "Vijay",
+            "Vijay Sethupathi",
+            "Malavika Mohanan"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "mass, energetic, intense, commercial",
+        "themes": "alcoholism, juvenile crime, redemption, good vs evil",
+        "rating": 7.7,
+        "summary": "A college professor with a drinking problem is sent to a juvenile facility run by a ruthless gangster. A commercial action entertainer that pits two of Tamil cinema's biggest stars against each other."
+    },
+    {
+        "title": "Jai Bhim",
+        "year": 2021,
+        "director": "T.J. Gnanavel",
+        "cast": [
+            "Suriya",
+            "Lijomol Jose",
+            "Manikandan"
+        ],
+        "genre": [
+            "Drama",
+            "Legal Thriller"
+        ],
+        "mood": "intense, emotional, powerful, hard-hitting",
+        "themes": "caste injustice, human rights, police brutality, tribal rights",
+        "rating": 8.8,
+        "summary": "Based on a true story, a lawyer fights for justice when a tribal man dies in police custody and his wife seeks the truth. One of the most acclaimed Tamil films for its unflinching portrayal of systemic injustice."
+    },
+    {
+        "title": "Soorarai Pottru",
+        "year": 2020,
+        "director": "Sudha Kongara",
+        "cast": [
+            "Suriya",
+            "Aparna Balamurali"
+        ],
+        "genre": [
+            "Drama",
+            "Biographical"
+        ],
+        "mood": "inspirational, emotional, uplifting, heartfelt",
+        "themes": "ambition, class struggle, aviation dreams, perseverance",
+        "rating": 8.7,
+        "summary": "Inspired by the life of Air Deccan founder G.R. Gopinath, a man from humble origins dreams of making air travel accessible to the common man and fights against all odds to build a low-cost airline."
+    },
+    {
+        "title": "Visaranai",
+        "year": 2015,
+        "director": "Vetrimaaran",
+        "cast": [
+            "Dinesh",
+            "Anandhi",
+            "Samuthirakani"
+        ],
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "mood": "bleak, raw, disturbing, realistic",
+        "themes": "police brutality, helplessness, migrants, systemic oppression",
+        "rating": 8.3,
+        "summary": "Four Tamil migrant workers in Andhra Pradesh are falsely implicated in a robbery and subjected to brutal police torture. A harrowing and unflinching look at custodial violence and the powerlessness of the marginalized."
+    },
+    {
+        "title": "Asuran",
+        "year": 2019,
+        "director": "Vetrimaaran",
+        "cast": [
+            "Dhanush",
+            "Manju Warrier"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "raw, emotional, intense, earthy",
+        "themes": "caste violence, survival, father-son bond, land rights",
+        "rating": 8.5,
+        "summary": "A lower-caste farmer goes on the run with his son after a caste-related killing. Told through parallel timelines, the film reveals a father's buried violent past and his desperate attempt to protect his family."
+    },
+    {
+        "title": "Karnan",
+        "year": 2021,
+        "director": "Mari Selvaraj",
+        "cast": [
+            "Dhanush",
+            "Rajisha Vijayan"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "raw, powerful, mythic, rebellious",
+        "themes": "caste oppression, community pride, resistance, dignity",
+        "rating": 8.4,
+        "summary": "In a village denied basic rights and oppressed by the police and upper castes, a fierce young man rises to protect his people. A mythological allegory set in rural Tamil Nadu with powerful imagery and a thunderous performance by Dhanush."
+    },
+    {
+        "title": "Vada Chennai",
+        "year": 2018,
+        "director": "Vetrimaaran",
+        "cast": [
+            "Dhanush",
+            "Aishwarya Rajesh",
+            "Ameer"
+        ],
+        "genre": [
+            "Action",
+            "Crime Drama"
+        ],
+        "mood": "gritty, dark, sprawling, intense",
+        "themes": "gang wars, poverty, politics, north Chennai underworld",
+        "rating": 8.4,
+        "summary": "The first part of an epic crime saga set in the slums of North Chennai, following a carrom player who gets drawn into gang rivalries and political power struggles spanning decades. A rich tapestry of characters and conflict."
+    },
+    {
+        "title": "Ratsasan",
+        "year": 2018,
+        "director": "Ram Kumar",
+        "cast": [
+            "Vishnu Vishal",
+            "Amala Paul"
+        ],
+        "genre": [
+            "Thriller",
+            "Crime"
+        ],
+        "mood": "gripping, dark, suspenseful, edge-of-seat",
+        "themes": "serial killer, obsession, detective work, psychology",
+        "rating": 8.4,
+        "summary": "An aspiring filmmaker turned police officer hunts a sadistic serial killer who targets young girls. Widely praised as one of the best Tamil thrillers ever made, with a chilling antagonist and tight screenplay."
+    },
+    {
+        "title": "Mandela",
+        "year": 2021,
+        "director": "Madonne Ashwin",
+        "cast": [
+            "Yogi Babu",
+            "Sheela Rajkumar"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "mood": "light-hearted, satirical, warm, quirky",
+        "themes": "democracy, caste politics, identity, voting rights",
+        "rating": 8.1,
+        "summary": "A barber of unknown caste becomes the deciding vote in a close local election, making him the most sought-after man in the village. A sharp political satire wrapped in gentle comedy."
+    },
+    {
+        "title": "Super Deluxe",
+        "year": 2019,
+        "director": "Thiagarajan Kumararaja",
+        "cast": [
+            "Vijay Sethupathi",
+            "Fahadh Faasil",
+            "Ramya Krishnan",
+            "Samantha"
+        ],
+        "genre": [
+            "Drama",
+            "Dark Comedy"
+        ],
+        "mood": "bizarre, unpredictable, philosophical, bold",
+        "themes": "identity, karma, morality, sexuality, redemption",
+        "rating": 8.3,
+        "summary": "Four seemingly unrelated stories collide in unexpected ways over a single night, exploring themes of sin, identity, and consequence. A bold, genre-defying Tamil film that challenges conventional storytelling."
+    },
+    {
+        "title": "Mersal",
+        "year": 2017,
+        "director": "Atlee",
+        "cast": [
+            "Vijay",
+            "S.J. Suryah",
+            "Samantha",
+            "Kajal Aggarwal"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "mass, emotional, commercial, high-energy",
+        "themes": "medical corruption, revenge, twin identity, justice",
+        "rating": 7.6,
+        "summary": "A man seeks revenge against a corrupt doctor who wronged his family, using the identity of a twin brother who is a magician. A masala entertainer with strong commercial elements and social commentary on healthcare."
+    },
+    {
+        "title": "Baahubali: The Beginning",
+        "year": 2015,
+        "director": "S.S. Rajamouli",
+        "cast": [
+            "Prabhas",
+            "Rana Daggubati",
+            "Tamannaah",
+            "Anushka Shetty"
+        ],
+        "genre": [
+            "Action",
+            "Epic",
+            "Fantasy"
+        ],
+        "mood": "grand, epic, spectacular, adventurous",
+        "themes": "kingship, betrayal, war, identity, duty",
+        "rating": 8.0,
+        "summary": "A young man raised in a waterfall village discovers his royal lineage and sets out to free a kingdom from a tyrannical ruler. A landmark Indian film known for its unprecedented scale and visual grandeur."
+    },
+    {
+        "title": "Baahubali 2: The Conclusion",
+        "year": 2017,
+        "director": "S.S. Rajamouli",
+        "cast": [
+            "Prabhas",
+            "Rana Daggubati",
+            "Anushka Shetty",
+            "Ramya Krishnan"
+        ],
+        "genre": [
+            "Action",
+            "Epic",
+            "Fantasy"
+        ],
+        "mood": "epic, emotional, grand, intense",
+        "themes": "betrayal, love, war, honor, sacrifice",
+        "rating": 8.2,
+        "summary": "The second part reveals the truth behind the death of Baahubali and his son's quest for revenge against the treacherous Bhallaladeva. The highest-grossing Indian film at its time of release."
+    },
+    {
+        "title": "2.0",
+        "year": 2018,
+        "director": "Shankar",
+        "cast": [
+            "Rajinikanth",
+            "Akshay Kumar",
+            "Amy Jackson"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "mood": "spectacular, grand, mass, visual extravaganza",
+        "themes": "technology vs nature, radiation, cell phone dangers, rebirth",
+        "rating": 6.9,
+        "summary": "The sequel to Enthiran where Chitti the robot is revived to fight a mysterious fifth force that is using mobile phones as weapons. A visual spectacle with a strong environmental message."
+    },
+    {
+        "title": "Vinnaithaandi Varuvaayaa",
+        "year": 2010,
+        "director": "Gautham Menon",
+        "cast": [
+            "Silambarasan",
+            "Trisha"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "dreamy, romantic, bittersweet, youthful",
+        "themes": "interreligious love, persistence, heartbreak, dreams",
+        "rating": 8.0,
+        "summary": "A young filmmaker falls deeply in love with a Christian girl whose strict family opposes the relationship. A landmark Tamil romance celebrated for its music, cinematography, and emotional authenticity."
+    },
+    {
+        "title": "Anjaan",
+        "year": 2014,
+        "director": "N. Linguswamy",
+        "cast": [
+            "Suriya",
+            "Samantha",
+            "Vidyut Jammwal"
+        ],
+        "genre": [
+            "Action",
+            "Crime"
+        ],
+        "mood": "mass, stylish, commercial, high-energy",
+        "themes": "gangster life, brotherhood, Mumbai underworld, redemption",
+        "rating": 6.2,
+        "summary": "A gangster living it up in Mumbai discovers he has a twin brother who is an honest man. A commercial action film with slick visuals and Mumbai underworld backdrop."
+    },
+    {
+        "title": "Nayakan",
+        "year": 1987,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Kamal Haasan",
+            "Saranya Ponvannan"
+        ],
+        "genre": [
+            "Crime Drama"
+        ],
+        "mood": "epic, emotional, intense, classic",
+        "themes": "organized crime, family, loyalty, justice, Mumbai slums",
+        "rating": 8.6,
+        "summary": "Inspired by The Godfather, a young boy who witnesses his father's murder grows up to become the godfather of a Mumbai slum, balancing crime and compassion. One of the greatest Tamil films ever made."
+    },
+    {
+        "title": "Mouna Ragam",
+        "year": 1986,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Mohan",
+            "Revathi",
+            "Karthik"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "emotional, sensitive, mature, quiet",
+        "themes": "arranged marriage, grief, healing, love after loss",
+        "rating": 8.3,
+        "summary": "A young woman still grieving her first love is forced into an arranged marriage. A classic Tamil romance that explores emotional healing and the possibility of love in unexpected circumstances."
+    },
+    {
+        "title": "Alaipayuthey",
+        "year": 2000,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Madhavan",
+            "Shalini"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "youthful, romantic, emotional, real",
+        "themes": "young love, marriage struggles, compromise, urban life",
+        "rating": 8.1,
+        "summary": "Two young people fall in love and elope, then face the real challenges of married life. Mani Ratnam's portrait of modern urban romance with an iconic A.R. Rahman soundtrack."
+    },
+    {
+        "title": "Kandukondain Kandukondain",
+        "year": 2000,
+        "director": "Rajiv Menon",
+        "cast": [
+            "Tabu",
+            "Aishwarya Rai",
+            "Ajith Kumar",
+            "Mammootty"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "warm, nostalgic, literary, emotional",
+        "themes": "sisterhood, ambition, love, family duty, self-discovery",
+        "rating": 7.8,
+        "summary": "Loosely adapted from Sense and Sensibility, two sisters from a struggling family find love and purpose in different ways. A beautifully crafted film with memorable music and performances."
+    },
+    {
+        "title": "Pithamagan",
+        "year": 2003,
+        "director": "Bala",
+        "cast": [
+            "Vikram",
+            "Suriya",
+            "Laila"
+        ],
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "mood": "dark, intense, brooding, raw",
+        "themes": "isolation, friendship, crime, identity, belonging",
+        "rating": 8.3,
+        "summary": "A man raised in a crematorium who has never seen the world befriends a conman and gets drawn into a life of crime. A haunting character study elevated by extraordinary performances from Vikram and Suriya."
+    },
+    {
+        "title": "Sethu",
+        "year": 1999,
+        "director": "Bala",
+        "cast": [
+            "Vikram",
+            "Abitha"
+        ],
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "mood": "intense, passionate, disturbing, raw",
+        "themes": "obsessive love, violence, mental breakdown, redemption",
+        "rating": 8.1,
+        "summary": "A rowdy college student becomes obsessively infatuated with a girl, and after a brutal assault, is left mentally challenged. A disturbing yet powerful study of passion, consequences, and unconditional love."
+    },
+    {
+        "title": "Anbe Sivam",
+        "year": 2003,
+        "director": "Sundar C",
+        "cast": [
+            "Kamal Haasan",
+            "Madhavan",
+            "Kiran Rathod"
+        ],
+        "genre": [
+            "Drama",
+            "Comedy"
+        ],
+        "mood": "heartwarming, philosophical, humorous, emotional",
+        "themes": "humanity, atheism, compassion, identity, friendship",
+        "rating": 8.4,
+        "summary": "A self-centered advertising executive is forced to travel with a disfigured communist after a flight cancellation. Their journey together becomes a profound meditation on what it means to be human and to love."
+    },
+    {
+        "title": "Kadal",
+        "year": 2013,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Arya",
+            "Aditi Rao Hydari",
+            "Arvind Swamy"
+        ],
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "mood": "atmospheric, emotional, intense, spiritual",
+        "themes": "good vs evil, redemption, faith, forbidden love",
+        "rating": 6.5,
+        "summary": "A young man raised in a Christian school falls in love while being corrupted by an evil smuggler. A visually stunning film exploring the eternal battle between good and evil against a coastal backdrop."
+    },
+    {
+        "title": "Kaaka Muttai",
+        "year": 2014,
+        "director": "M. Manikandan",
+        "cast": [
+            "Ramachandran Durai",
+            "Vignesh"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "innocent, heartwarming, bittersweet, realistic",
+        "themes": "poverty, childhood dreams, urbanization, food",
+        "rating": 8.5,
+        "summary": "Two slum brothers dream of eating pizza after seeing a pizza parlor open near their home. A deeply touching and universally relatable story about childhood, poverty, and the simple joys of life."
+    },
+    {
+        "title": "Sarpatta Parambarai",
+        "year": 2021,
+        "director": "Pa. Ranjith",
+        "cast": [
+            "Arya",
+            "Dushara Vijayan",
+            "Pasupathy"
+        ],
+        "genre": [
+            "Sports Drama",
+            "Action"
+        ],
+        "mood": "gritty, energetic, period, community-driven",
+        "themes": "boxing, caste pride, addiction, community honor, masculinity",
+        "rating": 8.4,
+        "summary": "Set in 1970s North Chennai, a young boxer rises through the ranks of two rival boxing clans while battling personal demons and caste-based rivalry. A visceral sports drama rooted in cultural pride."
+    },
+    {
+        "title": "Irudhi Suttru",
+        "year": 2016,
+        "director": "Sudha Kongara",
+        "cast": [
+            "Madhavan",
+            "Ritika Singh"
+        ],
+        "genre": [
+            "Sports Drama"
+        ],
+        "mood": "inspirational, gritty, emotional, realistic",
+        "themes": "sports, mentorship, class difference, ambition, gender",
+        "rating": 8.3,
+        "summary": "A washed-up boxing coach discovers a talented young fisherwoman and trains her to compete at the national level. A raw and authentic sports drama about ambition, sacrifice, and the bond between a mentor and protégé."
+    },
+    {
+        "title": "Mugamoodi",
+        "year": 2012,
+        "director": "Mysskin",
+        "cast": [
+            "Jiiva",
+            "Pooja Hegde",
+            "Narain"
+        ],
+        "genre": [
+            "Action",
+            "Superhero"
+        ],
+        "mood": "quirky, fun, action-packed, lighthearted",
+        "themes": "martial arts, vigilante justice, identity, heroism",
+        "rating": 6.8,
+        "summary": "A Bruce Lee obsessed young man becomes a real-life masked vigilante to fight crime. A Tamil superhero film with impressive action choreography and a charming lead performance."
+    },
+    {
+        "title": "7aum Arivu",
+        "year": 2011,
+        "director": "AR Murugadoss",
+        "cast": [
+            "Suriya",
+            "Shruti Haasan"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "mood": "patriotic, thrilling, ambitious, mass",
+        "themes": "ancient Tamil heritage, genetic memory, bioterrorism, pride",
+        "rating": 7.2,
+        "summary": "A geneticist discovers that a circus performer is the descendant of a legendary Bodhidharma and must awaken his dormant abilities to stop a Chinese bioterrorism plot. A patriotic sci-fi thriller celebrating Tamil history."
+    },
+    {
+        "title": "Annaatthe",
+        "year": 2021,
+        "director": "Siva",
+        "cast": [
+            "Rajinikanth",
+            "Nayanthara",
+            "Keerthy Suresh"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "mass, emotional, family-oriented, commercial",
+        "themes": "sibling bond, village life, brotherhood, protection",
+        "rating": 5.8,
+        "summary": "A beloved village man will go to any lengths to protect his sister. A commercial entertainer driven by Rajinikanth's star power and centred on the sacred bond between siblings."
+    },
+    {
+        "title": "Thani Oruvan",
+        "year": 2015,
+        "director": "Mohan Raja",
+        "cast": [
+            "Jayam Ravi",
+            "Arvind Swamy",
+            "Nayanthara"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "intelligent, stylish, cat-and-mouse, commercial",
+        "themes": "corruption, pharmaceutical crime, detective vs villain, justice",
+        "rating": 8.2,
+        "summary": "A dedicated police officer goes after a brilliant villain who is orchestrating a massive pharmaceutical scam. Known for its sharp writing, intelligent antagonist, and compelling cat-and-mouse dynamic."
+    },
+    {
+        "title": "Dasavathaaram",
+        "year": 2008,
+        "director": "K.S. Ravikumar",
+        "cast": [
+            "Kamal Haasan",
+            "Asin"
+        ],
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Drama"
+        ],
+        "mood": "ambitious, epic, chaotic, spectacular",
+        "themes": "chaos theory, bioterrorism, reincarnation, history",
+        "rating": 7.0,
+        "summary": "Kamal Haasan plays ten different characters across different time periods in a story involving a deadly biological weapon. An ambitious and chaotic entertainer showcasing extraordinary makeup artistry."
+    },
+    {
+        "title": "Ko",
+        "year": 2011,
+        "director": "K.V. Anand",
+        "cast": [
+            "Jiiva",
+            "Karthika",
+            "Piaa Bajpai"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "fast-paced, youthful, political, exciting",
+        "themes": "journalism, political conspiracy, courage, love",
+        "rating": 7.5,
+        "summary": "A photojournalist accidentally captures a political assassination and becomes a target. A fast-paced thriller that celebrates the courage of press freedom with youthful energy and a pulsating soundtrack."
+    },
+    {
+        "title": "Mynaa",
+        "year": 2010,
+        "director": "Prabhu Solomon",
+        "cast": [
+            "Vidharth",
+            "Sangeetha Balan"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "innocent, naturalistic, tender, rural",
+        "themes": "young love, nature, simple life, purity",
+        "rating": 7.8,
+        "summary": "Two young people fall in love against the backdrop of lush forests in the Western Ghats. A beautifully shot romance that celebrates simplicity, nature, and the purity of first love."
+    },
+    {
+        "title": "Kumki",
+        "year": 2012,
+        "director": "Prabhu Solomon",
+        "cast": [
+            "Vikram Prabhu",
+            "Lakshmi Menon"
+        ],
+        "genre": [
+            "Action",
+            "Drama",
+            "Romance"
+        ],
+        "mood": "warm, adventurous, rural, emotional",
+        "themes": "human-elephant bond, tribal community, love, sacrifice",
+        "rating": 7.9,
+        "summary": "A mahout and his beloved elephant are hired to capture a rogue elephant terrorizing a tribal village, where he falls in love with a local girl. A heartwarming adventure celebrating nature and the bond between man and animal."
+    },
+    {
+        "title": "Madrasapattinam",
+        "year": 2010,
+        "director": "A.L. Vijay",
+        "cast": [
+            "Arya",
+            "Amy Jackson"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "nostalgic, period, sweeping, romantic",
+        "themes": "colonial era, forbidden love, sacrifice, class divide",
+        "rating": 7.6,
+        "summary": "A British woman revisits India as an elderly woman and recounts her love story with a fisherman's son during the 1947 independence era. A beautiful period romance with stunning production design."
+    },
+    {
+        "title": "Billa",
+        "year": 2007,
+        "director": "Vishnuvardhan",
+        "cast": [
+            "Ajith Kumar",
+            "Nayanthara",
+            "Namitha"
+        ],
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "mood": "stylish, slick, cool, glamorous",
+        "themes": "undercover mission, dual identity, drug mafia, deception",
+        "rating": 7.2,
+        "summary": "A cop takes on the identity of a notorious drug lord to infiltrate a criminal organization. A stylish action remake known for Ajith's suave screen presence and slick production values."
+    },
+    {
+        "title": "Mankatha",
+        "year": 2011,
+        "director": "Venkat Prabhu",
+        "cast": [
+            "Ajith Kumar",
+            "Trisha",
+            "Arjun"
+        ],
+        "genre": [
+            "Action",
+            "Crime"
+        ],
+        "mood": "grey, gritty, stylish, unpredictable",
+        "themes": "heist, betrayal, greed, morally grey characters",
+        "rating": 7.8,
+        "summary": "A suspended cop orchestrates a plan to steal black money from a gambling den, but trust runs thin among the crew. A unique Tamil film with a morally grey hero and genuine unpredictability."
+    },
+    {
+        "title": "Thalapathy",
+        "year": 1991,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Rajinikanth",
+            "Mammootty",
+            "Shobana"
+        ],
+        "genre": [
+            "Action",
+            "Crime Drama"
+        ],
+        "mood": "epic, intense, emotional, operatic",
+        "themes": "friendship, loyalty, crime, political power, mother-son bond",
+        "rating": 8.3,
+        "summary": "Loosely inspired by the Mahabharata, a powerful gang leader and a police officer form an unlikely bond unaware of their deep family connection. A landmark film exploring loyalty, power, and tragic destiny."
+    },
+    {
+        "title": "Kadhal",
+        "year": 2004,
+        "director": "Balaji Sakthivel",
+        "cast": [
+            "Bharath",
+            "Sandhya"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "raw, realistic, heartbreaking, honest",
+        "themes": "young love, class divide, violence, sacrifice",
+        "rating": 8.1,
+        "summary": "A lower-class boy and a middle-class girl fall in love but are torn apart by her family's violent opposition. A brutally honest film about love, class, and the violence hidden beneath social respectability."
+    },
+    {
+        "title": "Sillunu Oru Kaadhal",
+        "year": 2006,
+        "director": "Prakash Kovelamudi",
+        "cast": [
+            "Suriya",
+            "Jyothika",
+            "Bhumika Chawla"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "sweet, family-oriented, emotional, warm",
+        "themes": "marriage, first love, family, forgiveness, trust",
+        "rating": 7.5,
+        "summary": "A married couple's relationship is tested when the husband's first love reappears in their lives. A feel-good family entertainer about love, commitment, and choosing your present over your past."
+    },
+    {
+        "title": "Mozhi",
+        "year": 2007,
+        "director": "Radha Mohan",
+        "cast": [
+            "Prithviraj",
+            "Jyothika",
+            "Prakash Raj"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "sensitive, warm, uplifting, tender",
+        "themes": "disability, music, love, acceptance, communication",
+        "rating": 8.2,
+        "summary": "A musician falls in love with a deaf-mute woman, and their relationship blossoms through music and understanding. A beautifully sensitive romance celebrated for Jyothika's extraordinary performance."
+    },
+    {
+        "title": "Autograph",
+        "year": 2004,
+        "director": "Cheran",
+        "cast": [
+            "Cheran",
+            "Sneha",
+            "Gopika"
+        ],
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "mood": "nostalgic, warm, bittersweet, reflective",
+        "themes": "past relationships, nostalgia, growing up, choices in life",
+        "rating": 8.0,
+        "summary": "On the eve of his wedding, a man revisits his past relationships and the women who shaped his life. A warm and deeply human film about nostalgia, regret, and the roads not taken."
+    },
+    {
+        "title": "Thavamai Thavamirundhu",
+        "year": 2005,
+        "director": "Cheran",
+        "cast": [
+            "Cheran",
+            "Devayani",
+            "Rajkiran"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "emotional, family-oriented, tear-jerking, sincere",
+        "themes": "father-son bond, sacrifice, family duty, aging, gratitude",
+        "rating": 8.3,
+        "summary": "A father sacrifices everything for his sons who forget him in their pursuit of modern lives. A deeply emotional family drama about parental sacrifice and the pain of being forgotten by those you love most."
+    },
+    {
+        "title": "Peranbu",
+        "year": 2018,
+        "director": "Ram",
+        "cast": [
+            "Mammootty",
+            "Sadhana"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "tender, heartbreaking, sensitive, quiet",
+        "themes": "disability, parenthood, unconditional love, sexuality",
+        "rating": 8.5,
+        "summary": "A divorced father returns to care for his severely disabled daughter and discovers the depth of unconditional love. A profoundly moving film that handles its sensitive subject with remarkable grace and honesty."
+    },
+    {
+        "title": "Polladhavan",
+        "year": 2007,
+        "director": "Vetrimaaran",
+        "cast": [
+            "Dhanush",
+            "Divya Spandana"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "tense, raw, street-smart, gripping",
+        "themes": "crime, pursuit, street life, desperation, urban Chennai",
+        "rating": 7.9,
+        "summary": "A young man's beloved bike is stolen, leading him on a desperate chase through the criminal underbelly of Chennai. Vetrimaaran's debut feature is a tense, street-level thriller with an authentic raw energy."
+    },
+    {
+        "title": "Naduvula Konjam Pakkatha Kaanom",
+        "year": 2012,
+        "director": "Balaji Tharaneetharan",
+        "cast": [
+            "Vijay Sethupathi",
+            "Gayathri Krishnaa"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "mood": "funny, warm, feel-good, breezy",
+        "themes": "friendship, short-term memory loss, cricket, loyalty",
+        "rating": 8.1,
+        "summary": "A man loses his short-term memory before his wedding, and his group of friends do everything to help him. A hilarious and heartwarming film that became a cult classic for its natural performances and relatable humor."
+    },
+    {
+        "title": "Soodhu Kavvum",
+        "year": 2013,
+        "director": "Nalan Kumarasamy",
+        "cast": [
+            "Vijay Sethupathi",
+            "Sanchita Shetty",
+            "Fahadh Faasil"
+        ],
+        "genre": [
+            "Crime",
+            "Dark Comedy"
+        ],
+        "mood": "dark, quirky, funny, irreverent",
+        "themes": "kidnapping, greed, urban crime, misfit criminals",
+        "rating": 8.0,
+        "summary": "A small-time kidnapping gang with a strict code of ethics takes on more than they bargained for when politics gets involved. A darkly funny crime comedy that announced Vijay Sethupathi as a unique talent."
+    },
+    {
+        "title": "Pizza",
+        "year": 2012,
+        "director": "Karthik Subbaraj",
+        "cast": [
+            "Vijay Sethupathi",
+            "Remya Nambeesan"
+        ],
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "mood": "eerie, suspenseful, atmospheric, twisty",
+        "themes": "supernatural, survival horror, deception, past sins",
+        "rating": 7.9,
+        "summary": "A pizza delivery boy gets trapped in a haunted mansion on a stormy night. A tight low-budget horror thriller that became a sensation for its clever twist ending and atmospheric tension."
+    },
+    {
+        "title": "Jigarthanda",
+        "year": 2014,
+        "director": "Karthik Subbaraj",
+        "cast": [
+            "Siddharth",
+            "Bobby Simha",
+            "Lakshmi Menon"
+        ],
+        "genre": [
+            "Crime",
+            "Dark Comedy",
+            "Drama"
+        ],
+        "mood": "layered, dark, meta, thrilling",
+        "themes": "filmmaking, gangster life, morality, art vs reality",
+        "rating": 8.3,
+        "summary": "A filmmaker wanting to make a gangster film befriends and secretly documents a real gangster. The layers of the story peel back to reveal a complex meditation on art, reality, and moral compromise."
+    },
+    {
+        "title": "Iraivi",
+        "year": 2016,
+        "director": "Karthik Subbaraj",
+        "cast": [
+            "Vijay Sethupathi",
+            "S.J. Suryah",
+            "Bobby Simha"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "dark, brooding, feminist, intense",
+        "themes": "toxic masculinity, women's struggles, relationships, artistic failure",
+        "rating": 7.8,
+        "summary": "Three men struggling with their failures in career and relationships slowly destroy the women in their lives. A dark and unflinching examination of patriarchy and the silent suffering of women."
+    },
+    {
+        "title": "Petta",
+        "year": 2019,
+        "director": "Karthik Subbaraj",
+        "cast": [
+            "Rajinikanth",
+            "Vijay Sethupathi",
+            "Nawazuddin Siddiqui"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "mass, stylish, nostalgic, energetic",
+        "themes": "past identity, revenge, college politics, loyalty",
+        "rating": 7.5,
+        "summary": "A new hostel warden at a college has a mysterious past that gradually surfaces as he confronts local villains. A love letter to Rajinikanth's classic era with vintage mass moments and style."
+    },
+    {
+        "title": "Mercury",
+        "year": 2018,
+        "director": "Karthik Subbaraj",
+        "cast": [
+            "Prabhudeva",
+            "Deepak Paramesh"
+        ],
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "mood": "eerie, silent, atmospheric, tense",
+        "themes": "guilt, mercury poisoning, supernatural revenge, karma",
+        "rating": 6.8,
+        "summary": "A group of friends on a joyride accidentally injure a mute man and leave him for dead. A completely dialogue-free horror thriller where the past haunts them in terrifying ways."
+    },
+    {
+        "title": "Nimir",
+        "year": 2018,
+        "director": "Priyadarshan",
+        "cast": [
+            "Udhayanidhi Stalin",
+            "Namitha Pramod"
+        ],
+        "genre": [
+            "Drama",
+            "Comedy"
+        ],
+        "mood": "warm, funny, political, feel-good",
+        "themes": "political idealism, rural development, comedy, community",
+        "rating": 7.3,
+        "summary": "A man loses a bet and is forced to become a government official in a remote village, where he slowly falls in love with the community and politics. A light-hearted remake with charming performances."
+    },
+    {
+        "title": "Vikram Vedha",
+        "year": 2017,
+        "director": "Pushkar-Gayatri",
+        "cast": [
+            "R. Madhavan",
+            "Vijay Sethupathi"
+        ],
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "mood": "gripping, philosophical, stylish, intense",
+        "themes": "good vs evil, moral ambiguity, storytelling, justice",
+        "rating": 8.4,
+        "summary": "A tough police officer chases down a notorious gangster who challenges his black-and-white view of justice through a series of clever stories. A brilliantly constructed thriller inspired by the Vikram Betaal folklore."
+    },
+    {
+        "title": "Dhuruvangal Pathinaaru",
+        "year": 2016,
+        "director": "Karthick Naren",
+        "cast": [
+            "Rahman",
+            "Prakash Raghavan"
+        ],
+        "genre": [
+            "Thriller",
+            "Crime"
+        ],
+        "mood": "minimalist, tense, intelligent, claustrophobic",
+        "themes": "investigation, past trauma, deception, criminal psychology",
+        "rating": 8.6,
+        "summary": "A retired police officer recounts the details of a case that destroyed his career to a journalist. A masterclass in minimalist thriller filmmaking that keeps you guessing until the very last scene."
+    },
+    {
+        "title": "Maanagaram",
+        "year": 2017,
+        "director": "Lokesh Kanagaraj",
+        "cast": [
+            "Sri",
+            "Sundeep Kishan",
+            "Regina Cassandra"
+        ],
+        "genre": [
+            "Thriller",
+            "Crime"
+        ],
+        "mood": "gritty, urban, fast-paced, realistic",
+        "themes": "urban crime, interconnected lives, survival, Chennai",
+        "rating": 7.9,
+        "summary": "Multiple interconnected stories unfold over one night in Chennai's urban jungle. Lokesh Kanagaraj's debut is a tightly woven urban thriller that announced a major new directorial voice."
+    },
+    {
+        "title": "Kannaattu",
+        "year": 2021,
+        "director": "Mysskin",
+        "cast": [
+            "Mysskin",
+            "Prashanth"
+        ],
+        "genre": [
+            "Horror",
+            "Drama"
+        ],
+        "mood": "atmospheric, dark, melancholic, artistic",
+        "themes": "supernatural, grief, guilt, past sins",
+        "rating": 7.1,
+        "summary": "A deaf-mute doctor investigates a mysterious epidemic in a remote village that appears to be supernatural in origin. A moody, art-house horror film with Mysskin's distinctive visual language."
+    },
+    {
+        "title": "Oppam",
+        "year": 2016,
+        "director": "Priyadarshan",
+        "cast": [
+            "Mohanlal",
+            "Anusree"
+        ],
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "mood": "tense, clever, suspenseful, edge-of-seat",
+        "themes": "blindness, survival, murder mystery, innocence",
+        "rating": 7.9,
+        "summary": "A blind elevator operator becomes the sole witness to a murder and must use his other senses to survive and expose the killer. A brilliantly crafted suspense thriller."
+    },
+    {
+        "title": "Thegidi",
+        "year": 2014,
+        "director": "Santhakumar",
+        "cast": [
+            "Ashok Selvan",
+            "Janani Iyer"
+        ],
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "mood": "suspenseful, intelligent, layered, slow-burn",
+        "themes": "investigation, corporate crime, deception, young detective",
+        "rating": 7.8,
+        "summary": "A young private detective unravels a complex corporate conspiracy. A smart, low-budget thriller that rewards patient viewers with a well-crafted mystery."
+    },
+    {
+        "title": "Naan Sigappu Manithan",
+        "year": 2014,
+        "director": "Thiru",
+        "cast": [
+            "Vishal",
+            "Lakshmi Menon"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "intense, gritty, action-driven, emotional",
+        "themes": "rare medical condition, survival, vengeance, family",
+        "rating": 7.4,
+        "summary": "A man with a rare condition that makes him lose consciousness when he sleeps seeks revenge against criminals. A unique action thriller built around a fascinating medical premise."
+    },
+    {
+        "title": "Miruthan",
+        "year": 2016,
+        "director": "Shakti Soundar Rajan",
+        "cast": [
+            "Jayam Ravi",
+            "Lakshmi Menon"
+        ],
+        "genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "mood": "fun, action-packed, campy, commercial",
+        "themes": "zombie apocalypse, survival, family, heroism",
+        "rating": 6.7,
+        "summary": "Tamil Nadu's first zombie film where a cop tries to rescue his sister during a zombie outbreak. A fun commercial entertainer that brought the zombie genre to Tamil cinema."
+    },
+    {
+        "title": "Ivan Thanthiran",
+        "year": 2017,
+        "director": "Rajesh M",
+        "cast": [
+            "Gautham Karthik",
+            "Shraddha Srinath"
+        ],
+        "genre": [
+            "Thriller",
+            "Romance"
+        ],
+        "mood": "breezy, fun, mystery, youthful",
+        "themes": "investigative journalism, deception, love, crime",
+        "rating": 7.0,
+        "summary": "A CBI officer and a journalist team up to solve a high-profile crime. A lightweight but entertaining thriller with a fun chemistry between its leads."
+    },
+    {
+        "title": "Saattai",
+        "year": 2012,
+        "director": "Ezhil",
+        "cast": [
+            "Jayaprakash",
+            "Yuvan",
+            "Thambi Ramaiah"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "inspiring, emotional, realistic, educational",
+        "themes": "education system, teacher dedication, rural schools, youth",
+        "rating": 7.9,
+        "summary": "A passionate government school teacher fights the corrupt education system to inspire his students. A heartfelt tribute to real teachers working in underfunded rural schools."
+    },
+    {
+        "title": "Taramani",
+        "year": 2017,
+        "director": "Ram",
+        "cast": [
+            "Vasanth Ravi",
+            "Andrea Jeremiah"
+        ],
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "mood": "bold, realistic, unconventional, sensual",
+        "themes": "sexual freedom, modern relationships, trauma, urban life",
+        "rating": 7.3,
+        "summary": "A modern urban love story between two free-spirited individuals confronting their past traumas and society's judgments. A bold and honest film about contemporary relationships and personal freedom."
+    },
+    {
+        "title": "Joker",
+        "year": 2016,
+        "director": "Raju Murugan",
+        "cast": [
+            "Guru Somasundaram",
+            "Ramya Pandian"
+        ],
+        "genre": [
+            "Drama",
+            "Political Satire"
+        ],
+        "mood": "satirical, rebellious, philosophical, quirky",
+        "themes": "politics, corruption, protest, common man vs system",
+        "rating": 7.8,
+        "summary": "A village simpleton's accidental clown persona makes him a political symbol and anti-corruption voice. A sharp political satire about the theatre of democracy and the power of the ordinary citizen."
+    },
+    {
+        "title": "Madha Gaja Raja",
+        "year": 2013,
+        "director": "Sundar C",
+        "cast": [
+            "Vishal",
+            "Vaibhav Reddy",
+            "Santhanam"
+        ],
+        "genre": [
+            "Action",
+            "Comedy"
+        ],
+        "mood": "fun, mass, comedy-driven, lighthearted",
+        "themes": "bromance, rivalry, comedy, action",
+        "rating": 6.5,
+        "summary": "Three friends get embroiled in a series of comedic misadventures. A commercial mass entertainer designed to deliver laughs and action in equal measure."
+    },
+    {
+        "title": "Tik Tik Tik",
+        "year": 2018,
+        "director": "Shakti Soundar Rajan",
+        "cast": [
+            "Jayam Ravi",
+            "Nivetha Pethuraj"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "mood": "fun, adventurous, space-themed, commercial",
+        "themes": "space mission, asteroid threat, teamwork, heroism",
+        "rating": 6.8,
+        "summary": "Tamil cinema's first space film where a thief is recruited for a classified space mission to deflect an asteroid. A fun sci-fi entertainer that broke new ground for Tamil cinema."
+    },
+    {
+        "title": "Nenjam Marappathillai",
+        "year": 2021,
+        "director": "Selvaraghavan",
+        "cast": [
+            "S.J. Suryah",
+            "Regina Cassandra"
+        ],
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "mood": "dark, psychological, disturbing, atmospheric",
+        "themes": "obsession, past lives, supernatural love, revenge",
+        "rating": 7.0,
+        "summary": "A man becomes obsessed with his employee whom he believes is the reincarnation of his murdered lover. A dark and stylish psychological horror film from one of Tamil cinema's most distinctive directors."
+    },
+    {
+        "title": "Kaatru Veliyidai",
+        "year": 2017,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Karthi",
+            "Aditi Rao Hydari"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "epic, passionate, turbulent, beautiful",
+        "themes": "toxic love, war, independence, sacrifice, longing",
+        "rating": 6.8,
+        "summary": "A turbulent love story between a fighter pilot and a doctor set against the backdrop of the Kargil War and Pakistani captivity. A visually stunning exploration of passionate yet complicated love."
+    },
+    {
+        "title": "Oru Kidayin Karunai Manu",
+        "year": 2017,
+        "director": "Suresh Sangaiah",
+        "cast": [
+            "Vidharth",
+            "Raveena"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "mood": "hilarious, quirky, warm, wholesome",
+        "themes": "human-animal bond, rural bureaucracy, compassion, humor",
+        "rating": 8.0,
+        "summary": "A goat files a petition against its owner who wants to slaughter it for a wedding feast. A delightfully quirky and warm comedy that became a beloved cult film."
+    },
+    {
+        "title": "Kolamaavu Kokila",
+        "year": 2018,
+        "director": "Nelson Dilipkumar",
+        "cast": [
+            "Nayanthara",
+            "Yogi Babu"
+        ],
+        "genre": [
+            "Crime",
+            "Dark Comedy",
+            "Drama"
+        ],
+        "mood": "dark, funny, unconventional, quirky",
+        "themes": "drug trade, family survival, accidental crime, womanhood",
+        "rating": 7.8,
+        "summary": "A timid woman accidentally becomes a key player in a drug trafficking network. A unique genre blend that uses dark humor to tell a story about survival, family, and unexpected female agency."
+    },
+    {
+        "title": "Gulebakavali",
+        "year": 2017,
+        "director": "Kalyaan",
+        "cast": [
+            "Prabhu Deva",
+            "Hansika Motwani"
+        ],
+        "genre": [
+            "Comedy",
+            "Action",
+            "Fantasy"
+        ],
+        "mood": "fun, colorful, fantasy, lighthearted",
+        "themes": "magic, folklore, comedy, romance",
+        "rating": 6.9,
+        "summary": "A man discovers a magical flower that can grant wishes and gets entangled in a series of comedic adventures. A fun fantasy entertainer designed for pure family entertainment."
+    },
+    {
+        "title": "Theeran Adhigaaram Ondru",
+        "year": 2017,
+        "director": "H. Vinoth",
+        "cast": [
+            "Karthi",
+            "Rakul Preet Singh"
+        ],
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "mood": "intense, procedural, realistic, gripping",
+        "themes": "police investigation, criminal gang, interstate crime, dedication",
+        "rating": 8.3,
+        "summary": "Based on true events, a police officer tracks a deadly gang of highway robbers and murderers across state lines. A gripping procedural thriller that celebrates the unglamorous dedication of real police work."
+    },
+    {
+        "title": "Aramm",
+        "year": 2017,
+        "director": "Gopi Nainar",
+        "cast": [
+            "Nayanthara",
+            "Munishkanth"
+        ],
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "mood": "tense, emotional, realistic, compassionate",
+        "themes": "government apathy, child welfare, bureaucracy, maternal instinct",
+        "rating": 7.9,
+        "summary": "A district collector races against time to save a child who has fallen into a borewell. A tense real-time thriller that doubles as a biting critique of bureaucratic failure and government apathy."
+    },
+    {
+        "title": "Merku Thodarchi Malai",
+        "year": 2018,
+        "director": "Lenin Bharathi",
+        "cast": [
+            "Antony",
+            "Gayathri Krishna"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "quiet, realistic, melancholic, naturalistic",
+        "themes": "labor exploitation, plantation workers, poverty, dreams",
+        "rating": 8.1,
+        "summary": "A young plantation worker in the Western Ghats dreams of building a better life while trapped in cycles of poverty and exploitation. A deeply compassionate and beautifully understated film."
+    },
+    {
+        "title": "Kabali",
+        "year": 2016,
+        "director": "Pa. Ranjith",
+        "cast": [
+            "Rajinikanth",
+            "Radhika Apte"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "defiant, political, mass, emotional",
+        "themes": "Tamil diaspora, labor rights, caste, rebellion, aging gangster",
+        "rating": 6.5,
+        "summary": "An aging gangster and labor rights activist in Malaysia fights for the dignity and rights of Tamil plantation workers. Pa. Ranjith uses Rajinikanth's star power to make a bold political statement."
+    },
+    {
+        "title": "Kaala",
+        "year": 2018,
+        "director": "Pa. Ranjith",
+        "cast": [
+            "Rajinikanth",
+            "Nana Patekar",
+            "Huma Qureshi"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "political, defiant, colorful, mass",
+        "themes": "slum rights, Ambedkarite politics, land struggle, Dharavi",
+        "rating": 6.8,
+        "summary": "A Dharavi slum lord fights against a politician who wants to demolish the slums for a development project. A politically charged film using the Ramayana framework to comment on caste and land rights."
+    },
+    {
+        "title": "Roja",
+        "year": 1992,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Arvind Swamy",
+            "Madhoo"
+        ],
+        "genre": [
+            "Romance",
+            "Drama",
+            "Thriller"
+        ],
+        "mood": "patriotic, romantic, emotional, tense",
+        "themes": "nationalism, Kashmir conflict, love, sacrifice, separation",
+        "rating": 8.0,
+        "summary": "A newlywed husband is captured by militants in Kashmir, and his young wife embarks on a desperate mission to secure his release. A landmark film that blended romance, patriotism, and political conflict."
+    },
+    {
+        "title": "Bombay",
+        "year": 1995,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Arvind Swamy",
+            "Manisha Koirala"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "emotional, political, passionate, heartbreaking",
+        "themes": "communal riots, Hindu-Muslim love, family, tolerance",
+        "rating": 7.9,
+        "summary": "A Hindu man and a Muslim woman fall in love and marry, then struggle to survive the 1993 Bombay communal riots. A powerful film about love transcending religious boundaries in times of violence."
+    },
+    {
+        "title": "Dil Se",
+        "year": 1998,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Shah Rukh Khan",
+            "Manisha Koirala",
+            "Preity Zinta"
+        ],
+        "genre": [
+            "Romance",
+            "Thriller",
+            "Drama"
+        ],
+        "mood": "passionate, intense, haunting, tragic",
+        "themes": "obsessive love, terrorism, northeast India, sacrifice",
+        "rating": 7.5,
+        "summary": "A radio journalist falls obsessively in love with a mysterious woman who is a suicide bomber. A visually stunning and emotionally devastating film about love, loss, and political violence."
+    },
+    {
+        "title": "Mudhalvan",
+        "year": 1999,
+        "director": "S. Shankar",
+        "cast": [
+            "Arjun",
+            "Manisha Koirala"
+        ],
+        "genre": [
+            "Action",
+            "Drama",
+            "Political"
+        ],
+        "mood": "inspiring, mass, political, feel-good",
+        "themes": "good governance, media, political system, reform",
+        "rating": 7.8,
+        "summary": "A television journalist gets a chance to be the Chief Minister for a day and ends up exposing systemic corruption. A crowd-pleasing political drama about the common man's dream of honest governance."
+    },
+    {
+        "title": "Indian",
+        "year": 1996,
+        "director": "S. Shankar",
+        "cast": [
+            "Kamal Haasan",
+            "Manisha Koirala",
+            "Urmila Matondkar"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "patriotic, intense, mass, moralistic",
+        "themes": "corruption, patriotism, vigilante justice, generation gap",
+        "rating": 8.0,
+        "summary": "An elderly freedom fighter turned vigilante assassinates corrupt government officials, while his son unknowingly investigates the killings. A landmark Tamil mass film with a powerful anti-corruption message."
+    },
+    {
+        "title": "Gentleman",
+        "year": 1993,
+        "director": "S. Shankar",
+        "cast": [
+            "Arjun",
+            "Madhoo",
+            "Goundamani"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "stylish, action-packed, commercial, slick",
+        "themes": "dual identity, crime, romance, action",
+        "rating": 7.3,
+        "summary": "Shankar's directorial debut about a Robin Hood-like thief who robs the rich to give to the poor. A stylish and commercially successful action film that launched one of Tamil cinema's most important careers."
+    },
+    {
+        "title": "Ghilli",
+        "year": 2004,
+        "director": "Dharani",
+        "cast": [
+            "Vijay",
+            "Trisha",
+            "Prakash Raj"
+        ],
+        "genre": [
+            "Action",
+            "Romance"
+        ],
+        "mood": "energetic, mass, fun, commercial",
+        "themes": "escape, romance, chase, heroism",
+        "rating": 7.4,
+        "summary": "A carefree young man helps a woman escape from a dangerous politician who wants to marry her. A massively popular commercial entertainer known for its energy, romance, and iconic action sequences."
+    },
+    {
+        "title": "Thirumalai",
+        "year": 2003,
+        "director": "Boopathy Pandian",
+        "cast": [
+            "Vijay",
+            "Jyothika"
+        ],
+        "genre": [
+            "Action",
+            "Romance",
+            "Comedy"
+        ],
+        "mood": "fun, mass, energetic, lighthearted",
+        "themes": "romance, rivalry, village life, comedy",
+        "rating": 7.2,
+        "summary": "A fun-loving rowdy from Chennai falls in love with a girl from a rival family. A cheerful commercial entertainer filled with action, comedy, and romance."
+    },
+    {
+        "title": "Pudhupettai",
+        "year": 2006,
+        "director": "Selvaraghavan",
+        "cast": [
+            "Dhanush",
+            "Sneha",
+            "Sonia Agarwal"
+        ],
+        "genre": [
+            "Crime Drama"
+        ],
+        "mood": "dark, gritty, tragic, raw",
+        "themes": "poverty, gang life, corruption, survival, political crime",
+        "rating": 8.1,
+        "summary": "A slum boy escapes a traumatic home life and rises through the ranks of a political gang, only to find himself trapped in cycles of violence. A dark and masterfully crafted crime epic."
+    },
+    {
+        "title": "Kadhalil Sodhappuvadhu Eppadi",
+        "year": 2012,
+        "director": "Balaji Mohan",
+        "cast": [
+            "Siddharth",
+            "Amala Paul"
+        ],
+        "genre": [
+            "Romance",
+            "Comedy"
+        ],
+        "mood": "fun, youthful, breezy, lighthearted",
+        "themes": "modern dating, heartbreak, friendship, young love",
+        "rating": 7.6,
+        "summary": "A young man seeks advice from his friend on how to win back his ex-girlfriend. A charming and relatable romantic comedy that captured the anxieties of modern urban romance."
+    },
+    {
+        "title": "Munbe Vaa",
+        "year": 2007,
+        "director": "Saran",
+        "cast": [
+            "Dhanush",
+            "Shreya Saran"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "sweet, emotional, youthful, touching",
+        "themes": "love, sacrifice, social acceptance, devotion",
+        "rating": 7.4,
+        "summary": "A devoted young man falls in love with a girl from a higher social class and must prove his worth to her family. A romantic film celebrated for its emotional depth and Dhanush's heartfelt performance."
+    },
+    {
+        "title": "Vaaranam Aayiram",
+        "year": 2008,
+        "director": "Gautham Menon",
+        "cast": [
+            "Suriya",
+            "Simran",
+            "Divya Spandana"
+        ],
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "mood": "emotional, epic, father-son, heartfelt",
+        "themes": "father-son bond, army, love, loss, growing up",
+        "rating": 8.0,
+        "summary": "A soldier relives memories of his father through parallel timelines of their lives. An emotional epic that celebrates the timeless bond between a father and son through love, loss, and shared dreams."
+    },
+    {
+        "title": "Yuganam",
+        "year": 2024,
+        "director": "G.K. Vijayam",
+        "cast": [
+            "Suresh Kumar",
+            "Sangeetha"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "quiet, realistic, social, grounded",
+        "themes": "communal harmony, rural life, inter-faith relationships",
+        "rating": 7.5,
+        "summary": "A quiet drama about communities and relationships in rural Tamil Nadu navigating social and communal tensions with dignity and compassion."
+    },
+    {
+        "title": "Oh My Kadavule",
+        "year": 2020,
+        "director": "Ashwath Marimuthu",
+        "cast": [
+            "Ashok Selvan",
+            "Ritika Singh",
+            "Vani Bhojan"
+        ],
+        "genre": [
+            "Romance",
+            "Comedy",
+            "Fantasy"
+        ],
+        "mood": "fun, heartfelt, funny, sweet",
+        "themes": "marriage, second chances, destiny, friendship vs love",
+        "rating": 7.8,
+        "summary": "A man unhappy in his arranged marriage is given a chance to relive his past and choose a different path. A charming romantic comedy-fantasy about fate, friendship, and discovering what truly makes you happy."
+    },
+    {
+        "title": "Kalathil Santhippom",
+        "year": 2021,
+        "director": "Milind Rau",
+        "cast": [
+            "Jiiva",
+            "Akthar Tejaswi"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "sweet, simple, rural, gentle",
+        "themes": "love in adversity, village life, family honor, devotion",
+        "rating": 6.5,
+        "summary": "A simple love story set in rural Tamil Nadu about two young people separated by family and circumstances. A gentle romantic film celebrating rural life and the purity of unconditional love."
+    },
+    {
+        "title": "Monster",
+        "year": 2022,
+        "director": "Albert Michael",
+        "cast": [
+            "Mohanlal",
+            "Honey Rose"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "fun, action-packed, cat-and-mouse, commercial",
+        "themes": "serial killer, police chase, heroism, crime",
+        "rating": 6.2,
+        "summary": "A charismatic police officer hunts a cunning serial killer in a fast-paced action thriller. A commercially designed entertainer driven by its star's charisma and kinetic action."
+    },
+    {
+        "title": "Kadaikutty Singam",
+        "year": 2018,
+        "director": "Pandiraj",
+        "cast": [
+            "Karthi",
+            "Sayyeshaa",
+            "Arthana Binu"
+        ],
+        "genre": [
+            "Drama",
+            "Action"
+        ],
+        "mood": "warm, family-oriented, emotional, feel-good",
+        "themes": "family bond, agriculture, sibling relationships, village life",
+        "rating": 7.8,
+        "summary": "The eldest son of a farming family sacrifices his dreams to hold his siblings together. A warm and emotionally satisfying family drama about duty, sacrifice, and the ties that bind."
+    },
+    {
+        "title": "Nerkonda Paarvai",
+        "year": 2019,
+        "director": "H. Vinoth",
+        "cast": [
+            "Ajith Kumar",
+            "Shraddha Srinath",
+            "Vidya Balan"
+        ],
+        "genre": [
+            "Legal Thriller",
+            "Drama"
+        ],
+        "mood": "intense, feminist, emotional, courtroom drama",
+        "themes": "consent, legal system, victim shaming, women's rights",
+        "rating": 8.0,
+        "summary": "A lawyer defends three women accused of killing a man who tried to sexually assault them. A powerful courtroom drama that sparked important conversations about consent and victim shaming."
+    },
+    {
+        "title": "Valimai",
+        "year": 2022,
+        "director": "H. Vinoth",
+        "cast": [
+            "Ajith Kumar",
+            "Huma Qureshi",
+            "Karthikeya"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "mass, high-octane, commercial, intense",
+        "themes": "biker gang, police vs criminals, father-son conflict",
+        "rating": 6.8,
+        "summary": "A sincere police officer takes on a dangerous biker gang responsible for a series of murders. A high-octane commercial action film with impressive vehicular action sequences."
+    }
+]
