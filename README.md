@@ -2,12 +2,31 @@
 
 > AI-powered movie recommendation engine — tell us what you loved, we'll find what you'll love next.
 
-![RAG](https://img.shields.io/badge/RAG-Pipeline-E50914?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square&logo=google)
-![Supabase](https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=flat-square&logo=supabase)
-![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react)
+![RAG](https://img.shields.io/badge/RAG-Pipeline...)
 
 ---
+
+<!-- ## Demo
+
+![CineMatch Demo](./assets/demo.gif) -->
+
+---
+
+## Screenshots
+
+### Movie Selection
+![Movie Selection](./assets/movieSearch.png)
+
+### Loading
+![Loading](./assets/loading.png)
+
+### Recommendations
+![Recommendations](./assets/recommendation.png)
+
+---
+
+## How It Works
+...
 
 ## How It Works
 
