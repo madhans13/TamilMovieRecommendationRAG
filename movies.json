@@ -1788,5 +1788,1003 @@
         "themes": "biker gang, police vs criminals, father-son conflict",
         "rating": 6.8,
         "summary": "A sincere police officer takes on a dangerous biker gang responsible for a series of murders. A high-octane commercial action film with impressive vehicular action sequences."
+    },
+    {
+        "title": "Leo",
+        "year": 2023,
+        "director": "Lokesh Kanagaraj",
+        "cast": [
+            "Vijay",
+            "Trisha Krishnan",
+            "Sanjay Dutt",
+            "Arjun"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "dark, intense, mass, stylish, high-octane",
+        "themes": "hidden identity, organized crime, drug mafia, protection, past catching up",
+        "rating": 7.5,
+        "summary": "A mild-mannered cafe owner living peacefully in the Himalayas with his family suddenly finds his carefully constructed quiet life shattered when a ruthless drug trafficking syndicate mistakes him for a dangerous and long-vanished criminal. As wave after wave of hired killers arrive to eliminate him, the shocking truth slowly surfaces — the man his family loves may indeed be harboring a violent, secretive past he has buried deep. The film is part of Lokesh Kanagaraj's Lokesh Cinematic Universe (LCU), directly connecting to events and characters from Kaithi and Vikram, rewarding devoted fans with satisfying callbacks while functioning as a standalone mass entertainer. Vijay delivers a layered dual-persona performance, switching between tender domesticity and cold lethal precision. Sanjay Dutt commands the screen as a formidable villain, and the film features jaw-dropping action choreography including a bravura train sequence. The emotional core rests on a father's ferocious instinct to protect his children at any cost."
+    },
+    {
+        "title": "Jailer",
+        "year": 2023,
+        "director": "Nelson Dilipkumar",
+        "cast": [
+            "Rajinikanth",
+            "Mohanlal",
+            "Jackie Shroff",
+            "Tamannaah",
+            "Ramya Krishnan",
+            "Shiva Rajkumar"
+        ],
+        "genre": [
+            "Action",
+            "Thriller",
+            "Comedy"
+        ],
+        "mood": "mass, entertaining, fun, high-energy, nostalgic",
+        "themes": "father-son conflict, retired cop, drug mafia, vengeance, family protection",
+        "rating": 7.2,
+        "summary": "A retired jailer who runs a small farm lives a contented, humble life until his son, a decorated police officer, is murdered by a powerful international drug lord. Consumed by grief and fury, the old man sets aside his peaceful retirement and unleashes the full, terrifying expertise of his decades in law enforcement upon the criminal empire responsible. The film is a deliberate and affectionate homage to Rajinikanth's golden era of mass cinema, brimming with stylized slow-motion entries, punchy one-liners, and crowd-pleasing whistles. Nelson Dilipkumar blends dark comedy with explosive action, while an extraordinary ensemble cast — including Mohanlal and Shiva Rajkumar in memorable cameos — makes this a celebration of South Indian cinema royalty. The climax is a masterclass in old-school mass filmmaking, delivering cathartic entertainment on a grand scale."
+    },
+    {
+        "title": "Ponniyin Selvan: Part 1",
+        "year": 2022,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Vikram",
+            "Aishwarya Rai",
+            "Karthi",
+            "Trisha",
+            "Jayam Ravi",
+            "Sobhita Dhulipala"
+        ],
+        "genre": [
+            "Epic",
+            "Historical Drama",
+            "Action"
+        ],
+        "mood": "grand, epic, political, visually stunning, operatic",
+        "themes": "succession war, loyalty, betrayal, Chola empire, power, identity",
+        "rating": 8.0,
+        "summary": "Adapted from Kalki Krishnamurthy's legendary Tamil novel, this first part of a two-film epic plunges audiences into the glittering and treacherous world of the 10th-century Chola empire. When whispers of a massive conspiracy to assassinate the ailing king begin to circulate, the courageous and charismatic prince Vandiyathevan is dispatched on a perilous mission across kingdoms to warn the royal family. He encounters a sprawling cast of warriors, queens, spies, and schemers — each pursuing their own agendas of power and survival. Mani Ratnam brings Kalki's beloved characters to life with extraordinary production design, opulent costumes, and sweeping ocean and battlefield cinematography. A.R. Rahman's score amplifies the mythic grandeur. The film is a celebration of Tamil heritage, political intrigue, and the epic storytelling tradition that has captivated Tamil readers for generations."
+    },
+    {
+        "title": "Ponniyin Selvan: Part 2",
+        "year": 2023,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Vikram",
+            "Aishwarya Rai",
+            "Karthi",
+            "Trisha",
+            "Jayam Ravi",
+            "Sobhita Dhulipala"
+        ],
+        "genre": [
+            "Epic",
+            "Historical Drama",
+            "Action"
+        ],
+        "mood": "intense, emotional, grand, tragic, operatic",
+        "themes": "identity revelation, sacrifice, power, duty vs love, empire building",
+        "rating": 7.8,
+        "summary": "The concluding part of Mani Ratnam's magnum opus resolves the tangled web of conspiracies surrounding the Chola throne with mounting emotional intensity. Secrets about true parentage and hidden identities are finally revealed, shattering alliances and transforming characters forever. The power struggle between the queen Nandini — whose devastating beauty conceals a revenge decades in the making — and the royal family reaches its thunderous climax. This second part is more emotionally dense and character-driven than its predecessor, with Aishwarya Rai delivering a career-defining performance as the enigmatic and tragic Nandini. The film deepens its exploration of what it means to sacrifice personal desire for the survival of an empire, concluding one of Tamil cinema's most ambitious projects with emotional resonance and visual magnificence."
+    },
+    {
+        "title": "Maamannan",
+        "year": 2023,
+        "director": "Mari Selvaraj",
+        "cast": [
+            "Udhayanidhi Stalin",
+            "Fahadh Faasil",
+            "Vadivelu",
+            "Keerthy Suresh"
+        ],
+        "genre": [
+            "Drama",
+            "Action",
+            "Political"
+        ],
+        "mood": "intense, political, raw, defiant, emotional",
+        "themes": "caste oppression, political power, dignity, rebellion, intergenerational trauma",
+        "rating": 8.1,
+        "summary": "A young man from a marginalized caste community is relentlessly humiliated and crushed by an upper-caste politician who wields power as a weapon of social domination. His father, a lifelong victim of caste discrimination who has internalized his own subjugation, must ultimately find the courage to confront the system that has broken him. Mari Selvaraj constructs a searing indictment of caste politics in Tamil Nadu through precise, symbol-laden filmmaking. Fahadh Faasil is electrifying as the villain — a man whose casual cruelty and entitlement make him more terrifying than any conventional antagonist. Vadivelu delivers a career-resurgent dramatic performance of heartbreaking depth. The film uses the visual language of Ambedkarite cinema to examine how oppression is internalized, inherited, and ultimately resisted."
+    },
+    {
+        "title": "Iraivan",
+        "year": 2023,
+        "director": "Geetha Krishna",
+        "cast": [
+            "Jayam Ravi",
+            "Nayanthara",
+            "Vadivelu"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "tense, mass, gripping, commercial",
+        "themes": "serial killer, police investigation, obsession, good vs evil",
+        "rating": 6.5,
+        "summary": "A seasoned police officer is drawn into a terrifying psychological battle of wills with an unusually intelligent and elusive serial killer who seems to anticipate every move of the investigation. As bodies pile up and the killer grows bolder, the officer's personal life begins to fracture under the pressure of the chase. The film attempts to blend Tamil mass commercial elements with the precise procedural tension of a serial killer thriller, delivering high-stakes confrontations and a cat-and-mouse dynamic reminiscent of Hollywood crime dramas. Jayam Ravi brings earnest conviction to the role of the beleaguered detective, while the film's production values and background score maintain a consistently taut atmosphere throughout."
+    },
+    {
+        "title": "PS-1 (Ponniyin Selvan)",
+        "year": 2022,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Vikram",
+            "Aishwarya Rai Bachchan",
+            "Karthi",
+            "Trisha Krishnan"
+        ],
+        "genre": [
+            "Period Drama",
+            "Action",
+            "Epic"
+        ],
+        "mood": "grand, majestic, political, sweeping",
+        "themes": "royal intrigue, war, loyalty, revenge, love",
+        "rating": 8.0,
+        "summary": "Set in the 10th century during the height of the mighty Chola dynasty, PS-1 is the first installment of Mani Ratnam's ambitious adaptation of Kalki's classic Tamil novel. The film follows the young warrior Vandiyathevan as he navigates a labyrinthine political conspiracy involving assassination plots, rival kingdoms, and a mysterious queen whose true motives remain hidden beneath layers of charm and grief. With stunning locations across Tamil Nadu and Sri Lanka, lavish period costumes, and choreographed battle sequences on an unprecedented scale for Tamil cinema, the film is a visual and cultural landmark. The ensemble cast brings together the finest talents of contemporary Tamil and Malayalam cinema, each character serving as a piece in an intricate historical puzzle. A.R. Rahman's evocative score ties the grandeur together."
+    },
+    {
+        "title": "Varisu",
+        "year": 2023,
+        "director": "Vamshi Paidipally",
+        "cast": [
+            "Vijay",
+            "Rashmika Mandanna",
+            "Prakash Raj",
+            "Sarathkumar"
+        ],
+        "genre": [
+            "Drama",
+            "Action",
+            "Family"
+        ],
+        "mood": "warm, emotional, mass, feel-good, family-oriented",
+        "themes": "family legacy, corporate succession, father-son bond, responsibility",
+        "rating": 6.8,
+        "summary": "The carefree youngest son of a powerful business magnate has always avoided the burden of responsibility, preferring a life of leisure and fun over the family empire. When his father's health deteriorates and a treacherous faction within the family attempts a hostile takeover of the business, the son must step up and discover within himself the qualities of leadership his father always believed he possessed. A traditional family drama wrapped in commercial Telugu-influenced production values, Varisu was designed as a mass Pongal entertainer prioritizing emotional family bonding over narrative complexity. Vijay's natural charisma and warmth keep the film engaging, particularly in its sentimental father-son sequences featuring Prakash Raj at his expressive best."
+    },
+    {
+        "title": "Thunivu",
+        "year": 2023,
+        "director": "H. Vinoth",
+        "cast": [
+            "Ajith Kumar",
+            "Manju Warrier",
+            "Samuthirakani"
+        ],
+        "genre": [
+            "Action",
+            "Heist Thriller"
+        ],
+        "mood": "grey, stylish, intense, mass, unconventional",
+        "themes": "anti-hero, bank heist, corporate corruption, insurance fraud, vigilante justice",
+        "rating": 6.9,
+        "summary": "A mysterious and morally complex anti-hero orchestrates a daring bank heist that turns out to be far more than a simple robbery — it is an elaborate, meticulously planned operation designed to expose and dismantle a deeply corrupt insurance conglomerate that has systematically robbed thousands of ordinary citizens of their savings and futures. H. Vinoth crafts a politically tinged action thriller that deliberately repositions Ajith Kumar as a grey protagonist operating outside conventional heroism. The film features slick action choreography, an atmospheric background score, and a plot that continually subverts expectations. Manju Warrier brings considerable gravitas to a pivotal supporting role, and the film's climax delivers a satisfying moral reckoning."
+    },
+    {
+        "title": "PS-2 (Ponniyin Selvan: Part 2)",
+        "year": 2023,
+        "director": "Mani Ratnam",
+        "cast": [
+            "Vikram",
+            "Aishwarya Rai Bachchan",
+            "Karthi",
+            "Trisha Krishnan",
+            "Jayam Ravi"
+        ],
+        "genre": [
+            "Period Drama",
+            "Action",
+            "Epic"
+        ],
+        "mood": "intense, emotional, tragic, majestic",
+        "themes": "identity, sacrifice, empire, betrayal, love and duty",
+        "rating": 7.8,
+        "summary": "The second and concluding part of Mani Ratnam's Chola saga dives deeper into the emotional and political fault lines of a dynasty on the brink. The revelation of Nandini's true origins recontextualizes everything that came before, transforming her from a scheming antagonist into one of Tamil cinema's most tragic and complex female characters. Aishwarya Rai delivers an aching, layered performance that anchors the film's emotional core. As the rightful heir prepares to ascend the throne and old scores are finally settled in blood and tears, the film builds to a bittersweet conclusion that honors Kalki's source material while adding Ratnam's characteristically lyrical visual poetry. A.R. Rahman's music reaches soaring heights, making PS-2 a worthy and moving conclusion to an extraordinary cinematic undertaking."
+    },
+    {
+        "title": "Garudan",
+        "year": 2024,
+        "director": "R. Inbaraj",
+        "cast": [
+            "Soori",
+            "Unni Mukundan",
+            "Sasikumar",
+            "Revathi"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "raw, emotional, intense, grounded, rural",
+        "themes": "friendship, betrayal, honor, caste dynamics, rural conflict",
+        "rating": 7.9,
+        "summary": "Three childhood friends bound by deep loyalty and shared hardship find their unbreakable bond tested to its limits when a violent tragedy and escalating caste tensions force them onto opposing sides of a brutal conflict. Set against the vivid, sun-baked backdrop of rural Tamil Nadu, the film examines how circumstances, pride, and social pressure can corrode even the most genuine human connections. Soori, primarily known for comedy, anchors the film with a performance of unexpected emotional range and raw power. The film belongs to the tradition of Tamil rural dramas that use personal relationships as a lens to examine broader social fractures, delivering both intimate emotional truth and visceral dramatic confrontation."
+    },
+    {
+        "title": "Ayalaan",
+        "year": 2021,
+        "director": "Ravikumar",
+        "cast": [
+            "Sivakarthikeyan",
+            "Rakul Preet Singh",
+            "Sharad Kelkar"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Comedy",
+            "Adventure"
+        ],
+        "mood": "fun, family-friendly, heartwarming, adventurous, lighthearted",
+        "themes": "human-alien friendship, environmental conservation, innocence, wonder",
+        "rating": 6.9,
+        "summary": "A kind-hearted young man stumbles upon a small, frightened alien creature who has crash-landed on Earth and is desperately trying to return home while being hunted by a ruthless corporation that wants to exploit its extraordinary biological properties for profit. The man shelters and befriends the alien, forming a touching cross-species bond that restores his sense of wonder and moral purpose. Inspired loosely by E.T. the Extra-Terrestrial, Ayalaan succeeds as a wholesome family entertainer with genuinely impressive VFX work for Tamil cinema. Sivakarthikeyan's natural comedic timing and emotional accessibility make the friendship at the center of the film feel warm and genuine. The film also weaves in an environmental message about humanity's destructive relationship with nature."
+    },
+    {
+        "title": "Doctor",
+        "year": 2021,
+        "director": "Nelson Dilipkumar",
+        "cast": [
+            "Sivakarthikeyan",
+            "Priyanka Arul Mohan",
+            "Vinay Rai"
+        ],
+        "genre": [
+            "Action",
+            "Dark Comedy",
+            "Thriller"
+        ],
+        "mood": "quirky, funny, dark, entertaining, fast-paced",
+        "themes": "human trafficking, obsessive love, dark comedy, vigilante justice",
+        "rating": 7.5,
+        "summary": "An obsessive, borderline unhinged doctor who is utterly devoted to his girlfriend embarks on a chaotic and violently darkly funny mission to rescue her niece who has been abducted by a human trafficking network. Nelson Dilipkumar's signature black comedy style — where horrifying subject matter is subverted through deadpan absurdist humor — is on full display, creating a tonally unique film that somehow makes the audience laugh while dealing with child trafficking. Sivakarthikeyan demonstrates impressive dramatic and comic range, fully committing to the manic energy of his character. The film's inventive action sequences and witty screenplay earned it massive commercial success and positioned Nelson as one of Tamil cinema's most distinctive contemporary voices."
+    },
+    {
+        "title": "Sivakarthikeyan's Don",
+        "year": 2022,
+        "director": "Cibi Chakaravarthi",
+        "cast": [
+            "Sivakarthikeyan",
+            "Priyanka Arul Mohan",
+            "S.J. Suryah",
+            "Samuthirakani"
+        ],
+        "genre": [
+            "Comedy",
+            "Action",
+            "Campus"
+        ],
+        "mood": "fun, youthful, breezy, entertaining, energetic",
+        "themes": "campus rivalry, ambition, academic pressure, love, comedy",
+        "rating": 7.0,
+        "summary": "A lazy but street-smart young man with zero academic ambitions enrolls in a prestigious engineering college run by a tyrannical, tradition-obsessed principal, purely to pursue a girl he has fallen for. What begins as a series of comedic misadventures evolves into a battle of wills between the freewheeling student and the rigid institution that wants to break him. The film belongs to the rich Tamil tradition of campus comedies but elevates the formula with sharp writing, excellent comic performances — particularly S.J. Suryah's deliciously over-the-top villain — and Sivakarthikeyan's effortless charm. The film balances laugh-out-loud comedy with enough emotional warmth to keep audiences genuinely invested in its protagonist's unlikely journey."
+    },
+    {
+        "title": "Etharkkum Thunindhavan",
+        "year": 2022,
+        "director": "Pandiraj",
+        "cast": [
+            "Suriya",
+            "Priyanka Arul Mohan",
+            "Sathyaraj"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "mass, intense, emotional, socially conscious, commercial",
+        "themes": "sexual harassment, justice for women, vigilante action, societal protection",
+        "rating": 7.0,
+        "summary": "A fiercely principled man who has built his life around protecting the vulnerable takes on a powerful and politically connected criminal network that has been systematically exploiting and silencing young women across the state. The film is designed as a commercial mass entertainer with a strong social message about the systemic failures that allow sexual predators to operate with impunity behind screens of wealth and political protection. Suriya channels righteous anger convincingly, and the film's emotional scenes — particularly those involving the suffering victims — give the action sequences moral weight. Pandiraj maintains his tradition of rooting commercial entertainment in genuine social concern, making the film resonate beyond simple vigilante escapism."
+    },
+    {
+        "title": "Suriya 42 (Kanguva)",
+        "year": 2024,
+        "director": "Siva",
+        "cast": [
+            "Suriya",
+            "Bobby Deol",
+            "Disha Patani"
+        ],
+        "genre": [
+            "Action",
+            "Fantasy",
+            "Epic"
+        ],
+        "mood": "grand, spectacular, ambitious, mass, visual extravaganza",
+        "themes": "reincarnation, ancient warrior, destiny, past lives, epic battle",
+        "rating": 5.8,
+        "summary": "An ancient warrior from a prehistoric tribal civilization and a modern-day bounty hunter are connected across centuries by a shared destiny and an unresolved battle between good and evil forces that transcends time. Positioned as one of the most expensive Tamil films ever made, Kanguva attempts an ambitious dual-timeline narrative that swings between visceral ancient warfare and contemporary action sequences. The film is a visual spectacle, with elaborate production design for its prehistoric sequences and impressively choreographed large-scale battle scenes. While the sheer ambition of the project is commendable, the film divides audiences on its storytelling coherence, functioning primarily as a showcase for technically impressive filmmaking and Suriya's commanding physical transformation for the warrior role."
+    },
+    {
+        "title": "Gatta Kusthi",
+        "year": 2022,
+        "director": "Chella Ayyavu",
+        "cast": [
+            "Vishnu Vishal",
+            "Aishwarya Lekshmi"
+        ],
+        "genre": [
+            "Sports Drama",
+            "Romance",
+            "Comedy"
+        ],
+        "mood": "fun, wholesome, entertaining, emotional, heartwarming",
+        "themes": "gender equality, wrestling, respect in marriage, ego, sports",
+        "rating": 7.8,
+        "summary": "A proud and traditional young man from a wrestling family falls in love with and marries a woman who is secretly a champion traditional wrestler — precisely the kind of sport he dominates and claims is not for women. When her talent is revealed, his fragile ego clashes violently with her confidence and capability, leading to a warm, funny, and ultimately heartfelt renegotiation of the power dynamics within their marriage. The film subverts the typical sports film formula by centering the competition within a domestic relationship, using the wrestling mat as a metaphor for marital equality. Aishwarya Lekshmi is radiant and physically committed, and the film's progressive message about female strength is delivered with genuine humor rather than heavy-handed moralizing."
+    },
+    {
+        "title": "Thalaivi",
+        "year": 2021,
+        "director": "A.L. Vijay",
+        "cast": [
+            "Kangana Ranaut",
+            "Arvind Swamy",
+            "Raj Arjun"
+        ],
+        "genre": [
+            "Biographical Drama"
+        ],
+        "mood": "inspirational, epic, political, emotional, powerful",
+        "themes": "political ambition, film career, womanhood, power, legacy",
+        "rating": 7.2,
+        "summary": "A sweeping biographical portrait of J. Jayalalithaa — one of India's most formidable and polarizing political figures — tracing her extraordinary journey from celebrated film actress to the most powerful Chief Minister of Tamil Nadu. The film chronicles her close professional and personal relationship with M.G. Ramachandran, the humiliations she endured from political rivals who underestimated her, and her fierce, determined transformation into a political force of nature who would reshape Tamil politics for decades. Kangana Ranaut undergoes a remarkable physical transformation and delivers a committed performance that captures both Jayalalithaa's regal screen presence and her indomitable political will. The film is a tribute to an irreplaceable figure in Tamil cultural and political history."
+    },
+    {
+        "title": "Mani Ratnam's Navarasa",
+        "year": 2021,
+        "director": "Multiple Directors",
+        "cast": [
+            "Suriya",
+            "Vijay Sethupathi",
+            "Revathi",
+            "Prashanth",
+            "Aditi Balan"
+        ],
+        "genre": [
+            "Anthology",
+            "Drama"
+        ],
+        "mood": "varied, emotional, artistic, poignant, diverse",
+        "themes": "nine emotions (navarasa), human experience, loss, joy, courage, wonder",
+        "rating": 7.5,
+        "summary": "A landmark Netflix anthology curated by Mani Ratnam and produced to raise funds for the Tamil film industry workers devastated by the COVID-19 pandemic. Nine short films, each exploring one of the classical nine human emotions (navarasa) from ancient Indian aesthetics, directed by some of Tamil cinema's finest talents including Gautham Menon, Arvind Swamy, Bejoy Nambiar, and others. The anthology showcases extraordinary versatility of storytelling — from Suriya's riveting segment about courage to Revathi's deeply moving exploration of grief — demonstrating Tamil cinema's capacity for intimate, auteur-driven filmmaking beyond the commercial mainstream. Each film is a self-contained gem that rewards multiple viewings."
+    },
+    {
+        "title": "Tughlaq Durbar",
+        "year": 2021,
+        "director": "Delhi Prasad Deenadayalan",
+        "cast": [
+            "Vijay Sethupathi",
+            "Raashi Khanna",
+            "Parthiban"
+        ],
+        "genre": [
+            "Political Comedy",
+            "Drama"
+        ],
+        "mood": "satirical, funny, sharp, entertaining, political",
+        "themes": "political corruption, split personality, power, comedy, governance",
+        "rating": 7.3,
+        "summary": "A crooked and supremely opportunistic political aide develops a fascinating split personality — one the calculating, amoral schemer he has always been, and the other an idealistic, scrupulously honest man who represents everything his original self despises. The film uses this comedic and dramatically rich premise to deliver a biting satire on the absurdities and hypocrisies of Tamil political culture, where the line between principle and pragmatism is perpetually blurred by self-interest. Vijay Sethupathi is clearly having enormous fun playing both personalities with distinct physicality and rhythms, and his infectious enjoyment elevates the material considerably. The film is sharp-eyed about the performative nature of political identity."
+    },
+    {
+        "title": "Yuddham Sei",
+        "year": 2011,
+        "director": "Mysskin",
+        "cast": [
+            "Cheran",
+            "Prashanth",
+            "Yuvan Shankar Raja"
+        ],
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "mood": "dark, atmospheric, philosophical, intense, artsy",
+        "themes": "serial killing, psychological investigation, existentialism, good vs evil",
+        "rating": 7.6,
+        "summary": "A brilliant police officer with an unconventional, almost philosophical approach to investigation is drawn into the hunt for a methodical serial killer whose crimes appear to follow a deeply personal and ideological logic. Mysskin's signature visual style — stark black-and-white photography, extreme close-ups, minimal dialogue — creates an atmosphere of profound moral and existential weight. The film is less interested in conventional thriller mechanics than in the philosophical collision between two intelligent minds on opposite sides of the moral spectrum. The investigation becomes a meditation on the nature of evil, the limits of justice, and what drives human beings to extreme actions. One of Tamil cinema's most visually distinctive crime films."
+    },
+    {
+        "title": "Psycho",
+        "year": 2020,
+        "director": "Mysskin",
+        "cast": [
+            "Udhayanidhi Stalin",
+            "Aditi Rao Hydari",
+            "Nithya Menen"
+        ],
+        "genre": [
+            "Thriller",
+            "Crime",
+            "Romance"
+        ],
+        "mood": "dark, romantic, atmospheric, intense, stylized",
+        "themes": "serial killer, obsession, disability, love, criminal psychology",
+        "rating": 7.4,
+        "summary": "A blind musician who possesses an extraordinary sensitivity to sound and emotion becomes the unlikely hero when his beloved girlfriend is abducted by a sadistic and theatrically violent serial killer who targets women. As the police investigation stalls, the musician uses his heightened senses and intimate knowledge of human psychology to track the killer through the shadows of the city. Mysskin creates a visually arresting thriller that doubles as an unconventional love story, using darkness — both literal and metaphorical — as both setting and theme. Nithya Menen is chilling and fascinating as the investigative officer, and the film's operatic climax demonstrates Mysskin's flair for grand, emotionally overwhelming conclusions."
+    },
+    {
+        "title": "Sivaji: The Boss",
+        "year": 2007,
+        "director": "S. Shankar",
+        "cast": [
+            "Rajinikanth",
+            "Shriya Saran",
+            "Vivek",
+            "Suman"
+        ],
+        "genre": [
+            "Action",
+            "Drama",
+            "Mass Entertainer"
+        ],
+        "mood": "grand, mass, stylish, commercial, high-energy",
+        "themes": "corruption, black money, education reform, NRI returning home, Robin Hood justice",
+        "rating": 7.8,
+        "summary": "A brilliant software engineer returns to India from America with enormous wealth and an ambitious dream of establishing world-class free educational and medical institutions for the poor. His noble vision is systematically sabotaged by a network of corrupt politicians and businessmen who demand bribes and manufacture legal obstacles to protect their own exploitative empires. Driven to desperation and ultimately forced underground, he reinvents himself as a flamboyant criminal mastermind to beat the corrupt system at its own game. Shankar orchestrates this social message film as a blockbuster commercial spectacle, with Rajinikanth at his most stylistically extravagant — haircuts, costume changes, and dialogue delivery that became cultural touchstones. A.R. Rahman's electrifying soundtrack remains iconic."
+    },
+    {
+        "title": "Bigil",
+        "year": 2019,
+        "director": "Atlee",
+        "cast": [
+            "Vijay",
+            "Nayanthara",
+            "Jackie Shroff",
+            "Kathir"
+        ],
+        "genre": [
+            "Sports Drama",
+            "Action"
+        ],
+        "mood": "mass, emotional, inspirational, high-energy, commercial",
+        "themes": "women's football, gangster past, redemption, coaching, gender barriers",
+        "rating": 7.2,
+        "summary": "A former football prodigy whose promising career was derailed by his involuntary entanglement in the criminal underworld of his gangster father is given an unexpected second chance — coaching the Tamil Nadu women's football team for the national championship. As he rebuilds his connection to the sport he loves and inspires a group of talented but overlooked women athletes to believe in themselves, his violent past refuses to stay buried, forcing a final confrontation between the life he built and the life he wants to leave behind. Atlee delivers a crowd-pleasing spectacle that combines genuine emotional investment in the female athletes' journey with explosive commercial action sequences. Vijay's dual role as both coach and gangster showcases his considerable range."
+    },
+    {
+        "title": "Kannum Kannum Kollaiyadithaal",
+        "year": 2020,
+        "director": "Desingh Periyasamy",
+        "cast": [
+            "Dulquer Salmaan",
+            "Ritu Varma",
+            "Rakshan"
+        ],
+        "genre": [
+            "Romance",
+            "Crime Thriller"
+        ],
+        "mood": "fun, romantic, unpredictable, witty, twisty",
+        "themes": "con artists, love, trust, deception, identity",
+        "rating": 8.2,
+        "summary": "Two charming and effortlessly likable young men who are secretly skilled con artists embark on what they intend to be a routine romantic con targeting two women — only to find themselves genuinely, inconveniently, and complicatedly falling in love with their marks. The film is a masterful tonal juggling act, delivering genuine romantic chemistry, rapid-fire comedy, and then pulling the rug out from under the audience multiple times with genre-shifting reveals that recontextualize everything that came before. Dulquer Salmaan is magnetic and charismatic as the lead con man, and the film's screenplay is one of Tamil cinema's most cleverly constructed in recent years. A genuinely surprising, endlessly rewatchable thriller-romance hybrid."
+    },
+    {
+        "title": "Pariyerum Perumal",
+        "year": 2018,
+        "director": "Pa. Ranjith",
+        "cast": [
+            "Kathir",
+            "Anandhi",
+            "Yogi Babu"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "emotional, raw, thought-provoking, realistic, heartbreaking",
+        "themes": "caste discrimination, first-generation education, love, systemic injustice, identity",
+        "rating": 8.5,
+        "summary": "A young man from a Dalit community becomes the first in his family to pursue higher education, enrolling in a law college with equal parts ambition, trepidation, and hope. As he navigates the brutal social hierarchy of his college — where caste determines your worth regardless of your merit — he falls in love with a girl from an upper-caste family, setting off a chain of events that exposes the violence lurking beneath the surface of so-called educated society. Pa. Ranjith suffuses every frame with specific, observed detail about the lived experience of caste discrimination, from subtle slights to explicit brutality. The film's relationship between Pariyerum and his beloved dog becomes a quietly devastating symbol of loyalty, dignity, and what the powerful destroy when they punish the powerless. A landmark film in Tamil social cinema."
+    },
+    {
+        "title": "Oor Iravu",
+        "year": 2022,
+        "director": "Vijay Anand",
+        "cast": [
+            "Aari Arujunan",
+            "Arthana Binu"
+        ],
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "mood": "tense, atmospheric, rural, suspenseful",
+        "themes": "village secrets, murder mystery, past crimes, rural justice",
+        "rating": 7.2,
+        "summary": "A haunting murder mystery set within a close-knit rural village, where one dark night becomes the center of a slowly unraveling investigation that exposes how deeply the community's present is entangled with sins and secrets from its past. The film is a patient, atmospheric thriller that trusts its setting to generate dread, using the geography and social customs of the Tamil village as both backdrop and active element of the mystery. The gradual revelation of what truly happened on that night peels back layers of complicity, honor culture, and the way communities protect themselves through collective silence. A strong debut that demonstrates genuine control over tone and escalating tension."
+    },
+    {
+        "title": "Vaanam Kottattum",
+        "year": 2020,
+        "director": "Dhana",
+        "cast": [
+            "Vikram Prabhu",
+            "Aaditi Pohankar",
+            "Shanthnu Bhagyaraj"
+        ],
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "mood": "warm, nostalgic, emotional, gentle, family-oriented",
+        "themes": "sibling bonds, family reunion, love across time, forgiveness",
+        "rating": 7.5,
+        "summary": "A music composer returns to his hometown after years away to find his estranged family, rekindling old relationships, healing old wounds, and rediscovering love that time and distance had covered over but never extinguished. Inspired loosely by Mani Ratnam's classic Agni Natchathiram in its family dynamics, the film is a tender and unhurried celebration of human connection — the ways families fracture and the extraordinary resilience that allows them to reassemble around shared history and love. The film's musical sensibility permeates its storytelling, and its handling of sibling relationships achieves a naturalistic warmth that elevates it well beyond the typical family drama formula."
+    },
+    {
+        "title": "Imaikkaa Nodigal",
+        "year": 2018,
+        "director": "R. Ajay Gnanamuthu",
+        "cast": [
+            "Nayanthara",
+            "Atharvaa",
+            "Raashi Khanna",
+            "Anurag Kashyap"
+        ],
+        "genre": [
+            "Thriller",
+            "Crime"
+        ],
+        "mood": "dark, suspenseful, psychological, gripping, serial-killer",
+        "themes": "serial killer obsession, justice, family protection, psychological warfare",
+        "rating": 7.6,
+        "summary": "A brilliant and deeply disturbed serial killer who idolizes fictional crime techniques becomes dangerously fixated on a renowned CBI officer, escalating his psychological games into a direct, terrifying personal assault on her family and sense of safety. The film belongs to the rare Tamil thriller tradition of centering a female law enforcement protagonist — Nayanthara's CBI officer is intelligent, capable, and deeply human — and pitting her against a villain whose intelligence nearly matches her own. Anurag Kashyap brings unexpected menace to the antagonist role. The film is tightly plotted, atmospherically shot, and maintains genuine suspense across its runtime, with a climax that delivers both emotional and thriller payoff."
+    },
+    {
+        "title": "Cobra",
+        "year": 2022,
+        "director": "Ajay Gnanamuthu",
+        "cast": [
+            "Vikram",
+            "Srinidhi Shetty",
+            "Roshan Mathew",
+            "Irfan Pathan"
+        ],
+        "genre": [
+            "Action",
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "mood": "stylish, globetrotting, intense, ambitious, commercial",
+        "themes": "genius criminal, mathematics, identity, disguise, international crime",
+        "rating": 6.2,
+        "summary": "A mathematical genius and master of disguise leads a shadowy double life as one of the world's most wanted and elusive criminals, operating across multiple continents while using his extraordinary intellect to stay perpetually one step ahead of international law enforcement agencies. The film is a globetrotting action thriller that showcases Vikram in an extraordinary makeup showcase — playing multiple nationalities and identities with remarkable dedication. The film's ambition outpaces its execution somewhat, with an overly complicated plot that occasionally loses the audience in its own intricacies, but the action sequences are impressively staged and Vikram's physical commitment to every incarnation of his character is extraordinary."
+    },
+    {
+        "title": "Magamuni",
+        "year": 2019,
+        "director": "Srinivasan",
+        "cast": [
+            "Arya",
+            "Indhuja Ravichandran"
+        ],
+        "genre": [
+            "Drama",
+            "Mystery"
+        ],
+        "mood": "quirky, spiritual, unpredictable, thoughtful, unusual",
+        "themes": "twin souls, karma, past lives, self-discovery, dharma",
+        "rating": 7.3,
+        "summary": "Arya plays twin brothers who are diametrically opposite in every conceivable way — one a gentle, ascetic man of extraordinary patience and spiritual depth, the other a volatile, impulsive, and street-smart operator. When their radically different paths converge around a central mystery involving past-life karma and unresolved spiritual debts, the film becomes a deeply unusual meditation on whether character is destiny and whether the soul carries its moral debts across lifetimes. The film defies easy genre classification, blending thriller elements with philosophical speculation about karma and dharma in a manner that is distinctly Tamil in its cultural and spiritual orientation."
+    },
+    {
+        "title": "Kaaviyathalaivan",
+        "year": 2014,
+        "director": "Vasanthabalan",
+        "cast": [
+            "Siddharth",
+            "Prithviraj",
+            "Vedhika",
+            "Amy Jackson"
+        ],
+        "genre": [
+            "Period Drama",
+            "Romance",
+            "Tragedy"
+        ],
+        "mood": "nostalgic, tragic, artistic, period, emotional",
+        "themes": "theatrical rivalry, jealousy, artistic ambition, friendship betrayal, sacrifice",
+        "rating": 7.5,
+        "summary": "Set in the golden era of Tamil theatre in the 1940s and 1950s, two deeply bonded friends pursue their passionate dreams of artistic excellence on the stage, only to be torn apart by jealousy, ambition, and the love of the same woman. The film is a richly detailed period piece that lovingly recreates the world of Tamil classical theater — its staging, its politics, its extraordinary personalities — while telling a deeply personal story of how artistic rivalry can poison even the most genuine friendship. Siddharth and Prithviraj are both excellent, and the film's music, production design, and melancholic final act linger long after viewing."
+    },
+    {
+        "title": "Marainthirundha Kathaigal",
+        "year": 2023,
+        "director": "Various",
+        "cast": [
+            "Yogi Babu",
+            "Indhuja Ravichandran",
+            "George Maryan"
+        ],
+        "genre": [
+            "Anthology",
+            "Drama",
+            "Thriller"
+        ],
+        "mood": "dark, varied, thought-provoking, intimate, surprising",
+        "themes": "hidden lives, urban loneliness, crime, human complexity, untold stories",
+        "rating": 7.4,
+        "summary": "An anthology of short films exploring the hidden stories of ordinary Tamil people whose lives contain extraordinary drama, moral ambiguity, and emotional depth far beyond their unremarkable exteriors. Each story is a self-contained universe that illuminates a different corner of contemporary Tamil society — from urban loneliness to rural injustice to quiet domestic tragedy — united by the central theme that every person walking down the street carries an entire world of unspoken experience. The anthology format allows multiple directorial voices to shine simultaneously, creating a collectively rich portrait of Tamil life in all its variety and complexity."
+    },
+    {
+        "title": "Dagaalty",
+        "year": 2020,
+        "director": "Vijay Anand",
+        "cast": [
+            "Santhanam",
+            "Rittika Sen"
+        ],
+        "genre": [
+            "Comedy",
+            "Action"
+        ],
+        "mood": "fun, mass, silly, commercial, entertaining",
+        "themes": "comedy, action, rivalry, friendship, love",
+        "rating": 6.3,
+        "summary": "A cheerful and thoroughly incompetent young man stumbles into a dangerous situation far beyond his abilities to handle and must improvise his way through a series of escalating comedic and action-packed misadventures. Built around Santhanam's established comic persona — the fast-talking, physically expressive everyman whose confidence is perpetually greater than his capabilities — the film delivers reliable laughs through situational comedy and the star's impeccable timing. A commercial entertainer designed to fulfill exactly what its audience expects: consistent laughs, light romance, and enough action to justify the multiplex ticket."
+    },
+    {
+        "title": "Kadaisi Vivasayi",
+        "year": 2021,
+        "director": "M. Manikandan",
+        "cast": [
+            "Vijayaraj",
+            "Nallandi"
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "mood": "quiet, profound, meditative, naturalistic, contemplative",
+        "themes": "agriculture, elderly dignity, modernity vs tradition, community, land",
+        "rating": 8.3,
+        "summary": "In a village where mechanized farming has rendered traditional agricultural practices obsolete and neighbors have abandoned the land for easier modern livelihoods, one stubborn, elderly farmer remains — the last person in the village still farming the old way with his own hands, bullocks, and the inherited knowledge of his ancestors. The film observes this man's daily life with extraordinary patience and visual poetry, finding in his routine a profound meditation on what is lost when tradition dies, what dignity looks like when stripped of audience or reward, and what it means to remain faithful to the earth and to one's ancestors. M. Manikandan's documentary-influenced approach creates an emotionally devastating portrait of an endangered way of life."
+    },
+    {
+        "title": "Oh My Dog",
+        "year": 2023,
+        "director": "Sarov Shanmugam",
+        "cast": [
+            "Arnav Vijay",
+            "Appukutty"
+        ],
+        "genre": [
+            "Family",
+            "Adventure",
+            "Comedy"
+        ],
+        "mood": "warm, fun, family-friendly, heartwarming, adventurous",
+        "themes": "human-animal bond, childhood, disability, friendship, acceptance",
+        "rating": 7.2,
+        "summary": "A young hearing-impaired boy forms an extraordinary and deeply moving friendship with an energetic Golden Retriever who becomes his best companion, protector, and window to a world that often struggles to include him. When circumstances threaten to separate them, the boy's fierce love for his dog leads him on a heartwarming adventure that teaches both him and the adults around him about the unconditional nature of loyalty and the barriers that disability should never impose on joy and connection. A genuinely charming family film that handles its subject of childhood hearing impairment with sensitivity and avoids sentimentality through the authentic chemistry between its young lead and his canine co-star."
+    },
+    {
+        "title": "Nenjam Pesuthe",
+        "year": 2021,
+        "director": "Mohan G",
+        "cast": [
+            "Rio Raj",
+            "Deepika Amin"
+        ],
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "mood": "sweet, emotional, bittersweet, gentle, heartfelt",
+        "themes": "long-distance love, sacrifice, commitment, modern relationships",
+        "rating": 7.0,
+        "summary": "Two people who fall in love must navigate the strain of a long-distance relationship that tests the boundaries of their commitment, communication, and ability to hold onto connection across physical separation. The film is a quiet, character-driven romance that finds its power in the specific textures of longing — video calls, time zones, the gap between knowing someone deeply and being present with them. It appeals strongly to audiences who have experienced the particular ache of caring deeply for someone who exists primarily through a screen, capturing the emotional reality of modern digital love with honesty and warmth."
+    },
+    {
+        "title": "Natchathiram Nagargirathu",
+        "year": 2022,
+        "director": "Pa. Ranjith",
+        "cast": [
+            "Kalidas Jayaram",
+            "Dushara Vijayan",
+            "Elango Kumaravel"
+        ],
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "mood": "artistic, political, intimate, bold, philosophical",
+        "themes": "caste and love, artistic communities, identity, inter-caste relationships, performance",
+        "rating": 7.6,
+        "summary": "Set within the world of a traveling theatrical troupe bringing Pa. Ranjith's signature Ambedkarite politics to rural Tamil Nadu, the film explores the complex romantic and ideological tensions that arise among the performers — particularly a nuanced inter-caste love story that challenges the troupe's political principles with the messy, inconvenient reality of human desire. Pa. Ranjith moves away from the visceral brutality of his earlier films toward a more lyrical, music-saturated register, using the theatrical framing as a space to examine whether lived ideology and lived love can coexist without compromise. The film is demanding and rewarding, dense with cultural references and debates that reflect Ranjith's sustained engagement with Dalit aesthetics and politics."
+    },
+    {
+        "title": "Kalki",
+        "year": 2019,
+        "director": "Prashanth Pandiyaraj",
+        "cast": [
+            "Prashanth",
+            "Aditi Rao Hydari",
+            "Anandaraj"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "mood": "intense, stylish, dark, commercial, gripping",
+        "themes": "police corruption, vigilante, dark secrets, urban crime",
+        "rating": 7.1,
+        "summary": "A mysterious young man with an obscure past arrives in a city where corruption has thoroughly infiltrated the police force and begins systematically dismantling the criminal network from within, using methods that blur the line between justice and vengeance. The film positions its protagonist as a figure of moral ambiguity — is he a righteous vigilante or a dangerous criminal with a private agenda? — and derives its tension from the slow revelation of his true identity and motivations. Strong action choreography and a committed performance keep the film engaging as it navigates the conventions of the Tamil cop-action genre."
+    },
+    {
+        "title": "Sanga Tamizhan",
+        "year": 2019,
+        "director": "M. Rajesh",
+        "cast": [
+            "Vijay Sethupathi",
+            "Raashi Khanna",
+            "Nivetha Pethuraj"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "mood": "mass, fun, entertaining, political comedy, commercial",
+        "themes": "political satire, common man hero, village upliftment, corruption",
+        "rating": 6.8,
+        "summary": "A proud, straightforward young man from a village who deeply values Tamil culture and honest governance accidentally becomes embroiled in a political conflict between corrupt local politicians and the genuinely marginalized community he comes from. The film uses broad comedy and crowd-pleasing mass elements to deliver a populist political message about the dignity of ordinary people and the cowardice of those who exploit them. Vijay Sethupathi's natural warmth and ability to make every character deeply human elevates the somewhat conventional material, and the film delivers reliable entertainment while touching on real anxieties about rural representation and political honesty."
+    },
+    {
+        "title": "Taanakkaran",
+        "year": 2022,
+        "director": "Prabhuram Vyas",
+        "cast": [
+            "Vikram Prabhu",
+            "Smruthi Venkat"
+        ],
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "mood": "realistic, intense, procedural, grounded",
+        "themes": "police brutality, power abuse, corruption within institutions, justice",
+        "rating": 7.5,
+        "summary": "A young probationary officer joins the police force with genuine idealism and a belief in justice, only to discover that the institution he has joined operates by a hidden set of rules defined by hierarchy, corruption, and the systematic abuse of power. As he witnesses and is pressured to participate in acts that violate everything he believes in, he must decide whether to accommodate the system or confront it at enormous personal cost. The film is a procedural drama that draws on the Tamil tradition of police brutality films to examine institutional corruption not through exceptional villainy but through the banality of everyday abuse — how ordinary people become instruments of oppression within power structures."
+    },
+    {
+        "title": "Veetla Vishesham",
+        "year": 2022,
+        "director": "R.S. Durai Senthilkumar",
+        "cast": [
+            "R.J. Balaji",
+            "Urvashi",
+            "Aparna Balamurali"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "mood": "fun, heartwarming, satirical, family-friendly, emotional",
+        "themes": "unexpected pregnancy, family comedy, generation gap, acceptance",
+        "rating": 7.5,
+        "summary": "A middle-class Tamil family's comfortably predictable routine is delightfully upended when the wife announces an unexpected pregnancy after years of settled domestic life, triggering a cascade of comedic generational conflicts, societal expectations, and family negotiations about how to accommodate this surprise. Tamil adaptation of the hit Hindi film Badhaai Ho, the film succeeds on the strength of its experienced cast — particularly the irreplaceable Urvashi — and the universal humor of family dynamics that transcends cultural specificity. R.J. Balaji brings his natural comedic sensibility to the embarrassed son, and the film balances sharp observational humor with genuine emotional warmth about the unpredictability of family life."
+    },
+    {
+        "title": "Aelay",
+        "year": 2021,
+        "director": "Halitha Shameem",
+        "cast": [
+            "Samuthirakani",
+            "Ambili Devi",
+            "Manoj Bharathiraja"
+        ],
+        "genre": [
+            "Drama",
+            "Adventure",
+            "Comedy"
+        ],
+        "mood": "warm, gentle, bittersweet, quirky, road trip",
+        "themes": "father-daughter bond, journey, simple life, joy in ordinariness",
+        "rating": 7.8,
+        "summary": "A lovably simple-minded but warm-hearted man who works as a farm laborer embarks on an unplanned road trip with his adult daughter, and what begins as a functional journey gradually becomes a tender, occasionally hilarious, and ultimately deeply moving exploration of a father-daughter relationship that has never been articulated in words but is expressed in every glance, gesture, and shared moment of quiet joy. Halitha Shameem specializes in films that find the profound within the apparently insignificant, and Aelay is perhaps her most fully realized vision — a film of extraordinary compassion for its characters and extraordinary trust in its audience's patience for understated emotion."
+    },
+    {
+        "title": "Andhaghaaram",
+        "year": 2020,
+        "director": "V. Vignarajan",
+        "cast": [
+            "Vinoth Kishan",
+            "Arjun Das",
+            "Pooja Ramachandran",
+            "Kumar Natarajan"
+        ],
+        "genre": [
+            "Thriller",
+            "Mystery",
+            "Supernatural"
+        ],
+        "mood": "dark, atmospheric, psychological, unsettling, labyrinthine",
+        "themes": "depression, suicide, supernatural, interconnected fates, darkness",
+        "rating": 8.0,
+        "summary": "Three disparate characters — a cricket coach descending into depression, a blind librarian who seems to perceive things beyond ordinary sight, and a psychiatrist investigating disturbing cases — find their lives increasingly and inexplicably entangled in ways that suggest forces beyond rational explanation. Netflix's first Tamil original film is an ambitious, visually dark, and genuinely disturbing thriller that refuses easy resolutions or tidy narrative logic, instead building a cumulative atmosphere of dread and existential unease. The film is not for casual viewing — it demands active engagement and rewards close attention — but it announces a genuinely unusual filmmaking voice uninterested in the conventional pleasures of mainstream Tamil cinema."
+    },
+    {
+        "title": "Soorarai Pottru",
+        "year": 2020,
+        "director": "Sudha Kongara",
+        "cast": [
+            "Suriya",
+            "Aparna Balamurali",
+            "Mohan Babu",
+            "Jackie Shroff"
+        ],
+        "genre": [
+            "Drama",
+            "Biographical"
+        ],
+        "mood": "inspirational, emotional, uplifting, heartfelt, passionate",
+        "themes": "aviation dreams, class struggle, entrepreneurial ambition, common man vs system, perseverance",
+        "rating": 8.7,
+        "summary": "Inspired by the extraordinary real-life story of Captain G.R. Gopinath, the founder of India's first low-cost airline Air Deccan, the film follows Nedumaaran Rajangam — Maara — a fiercely determined man from a modest background who carries a burning, almost irrational conviction that the sky should be accessible to ordinary Indians, not just the wealthy. Against a wall of obstacles including institutional resistance, financial ruin, powerful enemies in the established airline industry, and his own moments of crushing self-doubt, Maara refuses to surrender his vision. Suriya delivers one of the finest performances of his career, capturing both the visionary's unshakeable belief and the human fragility beneath it. Aparna Balamurali is extraordinary as his fiercely loyal wife, and the film's emotional climax — ordinary people finally taking flight — achieves genuine catharsis."
+    },
+    {
+        "title": "Vikram Vedha",
+        "year": 2017,
+        "director": "Pushkar-Gayatri",
+        "cast": [
+            "R. Madhavan",
+            "Vijay Sethupathi",
+            "Shraddha Srinath"
+        ],
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "mood": "gripping, philosophical, stylish, morally complex, intense",
+        "themes": "good vs evil, moral ambiguity, storytelling, justice vs law, grey zones",
+        "rating": 8.4,
+        "summary": "Based on the ancient Indian folklore of Vikram and Betaal, this masterfully constructed thriller reimagines the classic framework as a modern cat-and-mouse story. A no-nonsense police officer who has always divided the world into clean categories of good and evil finally captures a notorious gangster he has been hunting for years — only to find that the gangster is not interested in escape but in telling him three stories, each of which systematically dismantles the officer's certainties about justice, morality, and what kind of man he himself truly is. R. Madhavan and Vijay Sethupathi create a fascinating dialectical energy — the certain against the ambiguous — and the film's screenplay is among the most elegant and intellectually satisfying in Tamil cinema, continuously recontextualizing earlier scenes as new information arrives."
+    },
+    {
+        "title": "Paruthiveeran",
+        "year": 2007,
+        "director": "Ameer",
+        "cast": [
+            "Karthi",
+            "Priyamani"
+        ],
+        "genre": [
+            "Romance",
+            "Drama",
+            "Action"
+        ],
+        "mood": "raw, earthy, passionate, intense, rural",
+        "themes": "violent love, rural masculinity, caste, obsession, tragic romance",
+        "rating": 8.0,
+        "summary": "In a rural Tamil Nadu village, a free-spirited and volatile young man falls with overwhelming, consuming intensity for a girl who initially resists his pursuit, and what develops is a love story that is simultaneously tender and deeply disturbing in its power dynamics. Karthi's debut is a revelation — he commits completely to a character whose love is genuine but expressed through possessiveness and violence that the film does not sanitize or excuse. Priyamani won the National Award for her portrayal of a woman navigating love within a social and physical environment that offers her very little room for agency. The film is not a comfortable watch, but it is an extraordinarily honest depiction of rural romantic relationships and the violence that patriarchal culture makes invisible."
+    },
+    {
+        "title": "Irandam Ulagam",
+        "year": 2013,
+        "director": "Selvaraghavan",
+        "cast": [
+            "Arya",
+            "Anushka Shetty",
+            "Dhanush"
+        ],
+        "genre": [
+            "Fantasy",
+            "Romance",
+            "Drama"
+        ],
+        "mood": "dreamy, tragic, visually grand, epic, emotional",
+        "themes": "soulmates, parallel worlds, love beyond death, destiny, sacrifice",
+        "rating": 7.2,
+        "summary": "A man in contemporary Chennai is haunted by dreams of a fantastical parallel world populated by extraordinary beings, where he shares an intense and otherworldly romantic connection with a mysterious woman. As the boundary between his waking life and this dream dimension begins to dissolve, it becomes clear that the love story transcending worlds carries a devastating cost. Selvaraghavan's most visually ambitious film is a polarizing experience — rapturously beautiful and emotionally overwhelming to its admirers, bewildering and indulgent to its detractors. The film takes genuine creative risks in imagining Tamil cinema's most elaborate fantasy universe, and its tragic final act demonstrates Selvaraghavan's unflinching commitment to following emotional logic wherever it leads, regardless of audience comfort."
+    },
+    {
+        "title": "Nimir",
+        "year": 2018,
+        "director": "Priyadarshan",
+        "cast": [
+            "Udhayanidhi Stalin",
+            "Namitha Pramod",
+            "Ponvannan"
+        ],
+        "genre": [
+            "Drama",
+            "Comedy",
+            "Political"
+        ],
+        "mood": "warm, funny, political, optimistic, feel-good",
+        "themes": "idealistic governance, rural development, political innocence, community, comedy",
+        "rating": 7.3,
+        "summary": "A wealthy, carefree young man from a privileged urban family loses a wager and is compelled to serve as the administrative officer for a remote, desperately underserved rural panchayat that has been neglected by the state for years. What begins as an unwanted exile gradually becomes a profound transformation as the young man encounters the genuine human warmth, resilience, and political complexity of rural life, slowly developing a real commitment to the community he was sent to govern. The film is a Malayalam-to-Tamil remake that retains the original's gentle political idealism and comedic warmth, with Udhayanidhi Stalin finding comfortable ground in the role of the charming urban outsider whose heart gradually opens to the community around him."
+    },
+    {
+        "title": "Vellaikara Durai",
+        "year": 2014,
+        "director": "Ezhil",
+        "cast": [
+            "Vikram Prabhu",
+            "Sri Divya",
+            "Soori"
+        ],
+        "genre": [
+            "Romance",
+            "Drama",
+            "Comedy"
+        ],
+        "mood": "fun, rural, sweet, breezy, heartwarming",
+        "themes": "village romance, simple life, comedic misunderstandings, love",
+        "rating": 7.3,
+        "summary": "A charismatic and mischievous young man from a bustling urban background finds himself stranded in a picturesque rural village and promptly falls head over heels for a charming local girl, navigating the gap between his urban sensibilities and the village's customs through a series of warmly funny misunderstandings and genuine romantic development. The film belongs to the cherished Tamil tradition of village-set romantic comedies that use the contrast between urban and rural life as both a source of humor and a canvas for simple, honest emotional storytelling. Sri Divya's natural freshness and Vikram Prabhu's easy charm make for an irresistible on-screen pairing in a film designed to leave audiences smiling."
+    },
+    {
+        "title": "Maayavan",
+        "year": 2017,
+        "director": "C.V. Kumar",
+        "cast": [
+            "Sundeep Kishan",
+            "Jackie Shroff",
+            "Lavanya Tripathi"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "mood": "tense, cerebral, atmospheric, dark, intelligent",
+        "themes": "consciousness transfer, body swapping, identity, crime, scientific ethics",
+        "rating": 7.4,
+        "summary": "A police officer investigating a series of baffling murders discovers that the crimes are connected by a classified scientific experiment involving the transfer of human consciousness between bodies — a technology that raises profound questions about identity, criminal responsibility, and the boundary between the self and the body it inhabits. C.V. Kumar, known for producing smart low-budget Tamil genre films, delivers a genuinely cerebral science fiction thriller that engages seriously with its philosophical premise rather than using it merely as a plot device. The film is impressive for the range of ideas it explores within commercial thriller constraints, and Jackie Shroff adds considerable gravitas to his antagonistic role."
+    },
+    {
+        "title": "Rekka",
+        "year": 2016,
+        "director": "Rathina Siva",
+        "cast": [
+            "Vijay Sethupathi",
+            "Lakshmi Menon",
+            "Sija Rose"
+        ],
+        "genre": [
+            "Action",
+            "Romance",
+            "Comedy"
+        ],
+        "mood": "fun, energetic, mass, commercial, entertaining",
+        "themes": "brothers, love triangle, action comedy, family",
+        "rating": 6.8,
+        "summary": "A rollicking, good-natured young man with an infectious zest for life finds himself simultaneously entangled in two romantic situations while his fiercely protective brother attempts to impose order on his chaotic love life. The film is a mass commercial entertainer that gives Vijay Sethupathi rare opportunity to operate entirely within mainstream comedy-action territory, showcasing his natural charm and comic timing in a context divorced from the darker, more complex roles he is usually drawn to. Energetically paced with crowd-pleasing musical numbers and action sequences, Rekka delivers reliable entertainment for audiences in the mood for uncomplicated fun."
+    },
+    {
+        "title": "Kalki 2898 AD (Tamil Version)",
+        "year": 2024,
+        "director": "Nag Ashwin",
+        "cast": [
+            "Prabhas",
+            "Deepika Padukone",
+            "Amitabh Bachchan",
+            "Kamal Haasan"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action",
+            "Mythology",
+            "Epic"
+        ],
+        "mood": "grand, spectacular, ambitious, dark, mythological",
+        "themes": "Hindu mythology, dystopian future, messianic prophecy, sacrifice, good vs evil",
+        "rating": 7.5,
+        "summary": "In a spectacularly realized dystopian future where Earth has been reduced to a barren wasteland governed by a tyrannical overlord who harvests human life force to sustain himself, a last city of survivors clings to existence beneath the shadow of oppression. Into this darkness comes a confluence of destinies rooted in ancient Hindu mythology — as the world awaits the prophesied arrival of Kalki, the tenth and final avatar of Vishnu destined to bring an end to the age of darkness. A breathtakingly ambitious production that blends Indian mythological storytelling with Hollywood-scale science fiction world-building, featuring an extraordinary cast and technical achievements that push the boundaries of Indian cinema. Kamal Haasan as the supreme villain and Amitabh Bachchan as an immortal guardian deliver career-level performances that anchor the film's epic scope."
     }
 ]
